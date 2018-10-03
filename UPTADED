@@ -1,1 +1,1261 @@
-http://mypanel.tv:8080/get.php?username=o6c8cjfg09&password=tgdxo85h5h&type=m3u_plus&output=ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="########## Italy ##########" tvg-logo="http://pici.life/lg/IT/italy.png" group-title="Italy",########## Italy ##########
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4400.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- IT Entertainment -----" tvg-logo="" group-title="Italy",----- IT Entertainment -----
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/20500.ts
+#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai 1 HD IT" tvg-logo="http://pici.life/lg/IT/rai1hd.png" group-title="Italy",Rai 1 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4399.ts
+#EXTINF:-1 tvg-id="RaiDue.it" tvg-name="Rai 2 HD IT" tvg-logo="http://pici.life/lg/IT/rai2hd.png" group-title="Italy",Rai 2 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4398.ts
+#EXTINF:-1 tvg-id="RaiTre.it" tvg-name="Rai 3 HD IT" tvg-logo="http://pici.life/lg/IT/rai3hd.png" group-title="Italy",Rai 3 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4397.ts
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 HD IT" tvg-logo="http://pici.life/lg/IT/rai4hd.png" group-title="Italy",Rai 4 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4396.ts
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 HD IT" tvg-logo="http://pici.life/lg/IT/rai5-hd.png" group-title="Italy",Rai 5 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4395.ts
+#EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="Rete 4 HD IT" tvg-logo="http://pici.life/lg/IT/rete4hd.png" group-title="Italy",Rete 4 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4389.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5 HD IT" tvg-logo="" group-title="Italy",Canale 5 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/37203.ts
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 HD IT" tvg-logo="http://pici.life/lg/IT/italia1hd.png" group-title="Italy",Italia 1 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4387.ts
+#EXTINF:-1 tvg-id="La5.it" tvg-name="La5 HD IT" tvg-logo="http://pici.life/lg/IT/la5.png" group-title="Italy",La5 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4383.ts
+#EXTINF:-1 tvg-id="La7D.it" tvg-name="La7d IT" tvg-logo="http://pici.life/lg/IT/la7d.png" group-title="Italy",La7d IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4381.ts
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La7 IT" tvg-logo="http://pici.life/lg/IT/la7.png" group-title="Italy",La7 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4382.ts
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8 IT" tvg-logo="http://pici.life/lg/IT/tv8.png" group-title="Italy",TV8 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9298.ts
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris IT" tvg-logo="http://pici.life/lg/IT/iris.png" group-title="Italy",Iris IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4374.ts
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="http://pici.life/lg/IT/raimovie.png" group-title="Italy",Rai Movie IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4392.ts
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai YoYo HD IT" tvg-logo="http://pici.life/lg/IT/raiyoyo.png" group-title="Italy",Rai YoYo HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13065.ts
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo IT" tvg-logo="http://pici.life/lg/IT/raiyoyo.png" group-title="Italy",Rai Yoyo IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9325.ts
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola IT" tvg-logo="http://pici.life/lg/IT/raiscuola.png" group-title="Italy",Rai Scuola IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4390.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rai Storia HD IT" tvg-logo="https://pici.life/lg/IT/Rai_Storia.png" group-title="Italy",Rai Storia HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/19473.ts
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium IT" tvg-logo="http://pici.life/lg/IT/raipremiumhd.png" group-title="Italy",Rai Premium IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4393.ts
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp IT" tvg-logo="http://pici.life/lg/IT/raigulp.png" group-title="Italy",Rai Gulp IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4391.ts
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 HD IT" tvg-logo="http://pici.life/lg/IT/Italia2.png" group-title="Italy",Italia 2 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4386.ts
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://pici.life/lg/IT/k2.png" group-title="Italy",K2 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9310.ts
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno HD IT" tvg-logo="http://pici.life/lg/IT/skyunohd.png" group-title="Italy",Sky Uno HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13040.ts
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="Fox HD IT" tvg-logo="http://pici.life/lg/IT/foxhd.png" group-title="Italy",Fox HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4342.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD IT" tvg-logo="http://pici.life/foxlifehd_2.png" group-title="Italy",Fox Life HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4341.ts
+#EXTINF:-1 tvg-id="FoxComedy.it" tvg-name="Fox Comedy IT" tvg-logo="http://pici.life/lg/IT/foxcomedyhd.png" group-title="Italy",Fox Comedy IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4339.ts
+#EXTINF:-1 tvg-id="FoxAnimation.it" tvg-name="Fox Animation IT" tvg-logo="http://pici.life/foxanimationhd.png" group-title="Italy",Fox Animation IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4338.ts
+#EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="Comedy Central HD IT" tvg-logo="http://pici.life/comedycentral_2.png" group-title="Italy",Comedy Central HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4336.ts
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time HD IT" tvg-logo="http://pici.life/lg/IT/realtimehd.png" group-title="Italy",Real Time HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4333.ts
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo HD IT" tvg-logo="http://pici.life/lg/IT/cielo.png" group-title="Italy",Cielo HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9300.ts
+#EXTINF:-1 tvg-id="Lei.it" tvg-name="Lei HD IT" tvg-logo="http://pici.life/lg/IT/Lei.png" group-title="Italy",Lei HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13046.ts
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte HD IT" tvg-logo="http://pici.life/skyartehd_2.png" group-title="Italy",Sky Arte HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13063.ts
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="http://pici.life/lg/IT/dmax.png" group-title="Italy",DMAX IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9313.ts
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime IT" tvg-logo="http://pici.life/lg/IT/topcrime.png" group-title="Italy",Top Crime IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4380.ts
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="Gambero Rosso IT" tvg-logo="http://pici.life/lg/IT/gamberorosso.png" group-title="Italy",Gambero Rosso IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9294.ts
+#EXTINF:-1 tvg-id="" tvg-name="M2o Tv IT" tvg-logo="http://pici.life/lg/IT/m2o.png" group-title="Italy",M2o Tv IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13044.ts
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo IT" tvg-logo="http://pici.life/lg/IT/giallo.png" group-title="Italy",Giallo IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4334.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alice IT" tvg-logo="http://pici.life/lg/IT/alice.png" group-title="Italy",Alice IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9301.ts
+#EXTINF:-1 tvg-id="Laeffe.it" tvg-name="Laeffe HD IT" tvg-logo="http://pici.life/lg/IT/laeffe-logo.jpg" group-title="Italy",Laeffe HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13047.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- SKY ITALY SPORTS -----" tvg-logo="" group-title="Italy",----- SKY ITALY SPORTS -----
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/20501.ts
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 IT" tvg-logo="http://pici.life/lg/IT/skysport24hd.png" group-title="Italy",Sky Sport 24 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4331.ts
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 HD IT" tvg-logo="http://pici.life/lg/IT/skysport24hd.png" group-title="Italy",Sky Sport 24 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13041.ts
+#EXTINF:-1 tvg-id="SkySport1.it" tvg-name="Sky Sport 1 (Canale 251) IT" tvg-logo="http://pici.life/skysport1.png" group-title="Italy",Sky Sport 1 (Canale 251) IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4330.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 (Canale 251) HD IT" tvg-logo="" group-title="Italy",Sky Sport 1 (Canale 251) HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46128.ts
+#EXTINF:-1 tvg-id="SkySport2.it" tvg-name="Sky Sport 2 (Canale 252) IT" tvg-logo="http://pici.life/skysport2.png" group-title="Italy",Sky Sport 2 (Canale 252) IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4329.ts
+#EXTINF:-1 tvg-id="SkySport2.it" tvg-name="Sky Sport 2 (Canale 252) HD IT" tvg-logo="http://pici.life/lg/IT/skysport2hd.png" group-title="Italy",Sky Sport 2 (Canale 252) HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13382.ts
+#EXTINF:-1 tvg-id="SkySport3.it" tvg-name="Sky Sport 3 (Canale 253) IT" tvg-logo="http://pici.life/skysport3.png" group-title="Italy",Sky Sport 3 (Canale 253) IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4328.ts
+#EXTINF:-1 tvg-id="SkySport3.it" tvg-name="Sky Sport 3 (Canale 253) HD IT" tvg-logo="http://pici.life/lg/IT/skysport3hd.png" group-title="Italy",Sky Sport 3 (Canale 253) HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13380.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 (Canale 254) HD IT" tvg-logo="" group-title="Italy",Sky Sport 4 (Canale 254) HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 (Canale 255) HD IT" tvg-logo="" group-title="Italy",Sky Sport 5 (Canale 255) HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 (Canale 256) HD IT" tvg-logo="" group-title="Italy",Sky Sport 6 (Canale 256) HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46125.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 (Canale 257) HD IT" tvg-logo="" group-title="Italy",Sky Sport 7 (Canale 257) HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/51018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Roma TV Sport IT" tvg-logo="" group-title="Italy",Roma TV Sport IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/51017.ts
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 IT" tvg-logo="http://pici.life/lg/IT/skysportf1hd.png" group-title="Italy",Sky Sport F1 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4326.ts
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HD IT" tvg-logo="http://pici.life/lg/IT/skysportf1hd.png" group-title="Italy",Sky Sport F1 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13378.ts
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP IT" tvg-logo="http://pici.life/lg/IT/skysportmotogphd.png" group-title="Italy",Sky Sport MotoGP IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4325.ts
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP HD IT" tvg-logo="http://pici.life/lg/IT/skysportmotogphd.png" group-title="Italy",Sky Sport MotoGP HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13377.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena HD IT" tvg-logo="" group-title="Italy",Sky Sport Arena HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA HD IT" tvg-logo="" group-title="Italy",Sky Sport NBA HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46538.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Serie A HD IT" tvg-logo="" group-title="Italy",Sky Sport Serie A HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Football HD IT" tvg-logo="" group-title="Italy",Sky Sport Football HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46129.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Uno HD IT" tvg-logo="" group-title="Italy",Sky Sports Uno HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/53160.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Mix HD IT" tvg-logo="" group-title="Italy",Sky Sport Mix HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46537.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 HD IT" tvg-logo="http://pici.life/lg/IT/eurosport1hd.png" group-title="Italy",EuroSport 1 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13373.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 HD IT" tvg-logo="http://pici.life/eurosport2hd_2.png" group-title="Italy",EuroSport 2 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13372.ts
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan Channel FHD IT" tvg-logo="http://pici.life/lg/IT/milanchannel.png" group-title="Italy",Milan Channel FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4309.ts
+#EXTINF:-1 tvg-id="InterChannel.it" tvg-name="Inter Channel IT" tvg-logo="http://pici.life/lg/IT/interchannel.png" group-title="Italy",Inter Channel IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4310.ts
+#EXTINF:-1 tvg-id="" tvg-name="Roma Channel TV IT" tvg-logo="http://pici.life/roma.png" group-title="Italy",Roma Channel TV IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9320.ts
+#EXTINF:-1 tvg-id="LazioStyleChannel.it" tvg-name="Lazio Style Channel IT" tvg-logo="http://pici.life/lg/IT/Lazio_style.png" group-title="Italy",Lazio Style Channel IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9319.ts
+#EXTINF:-1 tvg-id="TorinoChannel.it" tvg-name="Torino Channel HD IT" tvg-logo="https://pici.life/lg/IT/Torino%20Channel%20HD%20IT.png" group-title="Italy",Torino Channel HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/15178.ts
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="Super Tennis HD IT" tvg-logo="http://pici.life/lg/IT/supertennis.png" group-title="Italy",Super Tennis HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4322.ts
+#EXTINF:-1 tvg-id="AutomotoTV.it" tvg-name="Automoto IT" tvg-logo="http://pici.life/lg/IT/automototv.png" group-title="Italy",Automoto IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13374.ts
+#EXTINF:-1 tvg-id="BikeChannel.it" tvg-name="Bike HD IT" tvg-logo="http://pici.life/lg/IT/Bike_.png" group-title="Italy",Bike HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13079.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Italia IT" tvg-logo="http://pici.life/lg/IT/sportitalia.png" group-title="Italy",Sport Italia IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4324.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1 IT" tvg-logo="" group-title="Italy",Dazn 1 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50699.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 IT" tvg-logo="" group-title="Italy",Dazn 2 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50698.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 3 IT" tvg-logo="" group-title="Italy",Dazn 3 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50697.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 4 IT" tvg-logo="" group-title="Italy",Dazn 4 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50696.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 5 IT" tvg-logo="" group-title="Italy",Dazn 5 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50695.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 6 IT" tvg-logo="" group-title="Italy",Dazn 6 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50694.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 7 IT" tvg-logo="" group-title="Italy",Dazn 7 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50693.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 8 IT" tvg-logo="" group-title="Italy",Dazn 8 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50692.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 9 IT" tvg-logo="" group-title="Italy",Dazn 9 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50691.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 10 IT" tvg-logo="" group-title="Italy",Dazn 10 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50690.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 11 IT" tvg-logo="" group-title="Italy",Dazn 11 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50689.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 12 IT" tvg-logo="" group-title="Italy",Dazn 12 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/507782.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 13 IT" tvg-logo="" group-title="Italy",Dazn 13 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 14 IT" tvg-logo="" group-title="Italy",Dazn 14 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50776.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vetrina Dazn IT" tvg-logo="" group-title="Italy",Vetrina Dazn IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/50700.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- Sky Italy Movies -----" tvg-logo="" group-title="Italy",----- Sky Italy Movies -----
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/20504.ts
+#EXTINF:-1 tvg-id="Sky3D.it" tvg-name="Sky 3D HD IT" tvg-logo="http://pici.life/sky3d_2.png" group-title="Italy",Sky 3D HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13064.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.it" tvg-name="Sky Cinema Hits HD IT" tvg-logo="http://pici.life/lg/IT/skycinemahitshd.png" group-title="Italy",Sky Cinema Hits HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4373.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family HD IT" tvg-logo="http://pici.life/lg/IT/skycinemafamilyhd.png" group-title="Italy",Sky Cinema Family HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4372.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family 1 HD IT" tvg-logo="http://pici.life/lg/IT/skycinemafamilyhd.png" group-title="Italy",Sky Cinema Family 1 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4371.ts
+#EXTINF:-1 tvg-id="SkyCinemaPassion.it" tvg-name="Sky Cinema Passion HD IT" tvg-logo="http://pici.life/lg/IT/skycinemapassionhd-phibruspel.png" group-title="Italy",Sky Cinema Passion HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4370.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema 24 HD IT" tvg-logo="http://pici.life/lg/IT/skycinema24hdit.png" group-title="Italy",Sky Cinema 24 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4375.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema  24 HD IT" tvg-logo="http://pici.life/lg/IT/skycinema24hdit.png" group-title="Italy",Sky Cinema  24 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9322.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy HD IT" tvg-logo="http://pici.life/lg/IT/skycinemacomedyhd.png" group-title="Italy",Sky Cinema Comedy HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4368.ts
+#EXTINF:-1 tvg-id="SkyCinemaClassics.it" tvg-name="Sky Cinema Classic HD IT" tvg-logo="http://pici.life/lg/IT/skycinemaclassicshd-phibruspel.png" group-title="Italy",Sky Cinema Classic HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4364.ts
+#EXTINF:-1 tvg-id="SkyCinemaMax.it" tvg-name="Sky Cinema Max HD IT" tvg-logo="http://pici.life/lg/IT/skycinemamaxhd-phibruspel.png" group-title="Italy",Sky Cinema Max HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4366.ts
+#EXTINF:-1 tvg-id="SkyCinemaCult.it" tvg-name="Sky Cinema Cult HD IT" tvg-logo="http://pici.life/lg/IT/skycinemaculthd-phibruspel.png" group-title="Italy",Sky Cinema Cult HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4365.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- Premium Movies -----" tvg-logo="" group-title="Italy",----- Premium Movies -----
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/20505.ts
+#EXTINF:-1 tvg-id="PremiumCinema.it" tvg-name="Premium Cinema HD IT" tvg-logo="http://pici.life/lg/IT/premiumcinemahdit.png" group-title="Italy",Premium Cinema HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4361.ts
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.it" tvg-name="Premium Cinema 24 IT" tvg-logo="http://pici.life/lg/IT/premiumcinema24it.png" group-title="Italy",Premium Cinema 24 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4360.ts
+#EXTINF:-1 tvg-id="PremiumCinema.it" tvg-name="Premium Cinema 2 HD IT" tvg-logo="http://pici.life/lg/IT/premiumcinema2hdit.png" group-title="Italy",Premium Cinema 2 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4359.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premium Cinema 2 +24 IT" tvg-logo="http://pici.life/lg/IT/premiumcinema224it.png" group-title="Italy",Premium Cinema 2 +24 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4358.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premium Emotion IT" tvg-logo="http://pici.life/lg/IT/premiumcinemaemotionit.png" group-title="Italy",Premium Emotion IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13070.ts
+#EXTINF:-1 tvg-id="PremiumCinemaComedy.it" tvg-name="Premium Cinema Comedy IT" tvg-logo="http://pici.life/lg/IT/premiumcinemacomedyit.png" group-title="Italy",Premium Cinema Comedy IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4355.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premium Studio Universal IT" tvg-logo="http://pici.life/studiouniversal.png" group-title="Italy",Premium Studio Universal IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4354.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- Premium Entertainment -----" tvg-logo="" group-title="Italy",----- Premium Entertainment -----
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/20506.ts
+#EXTINF:-1 tvg-id="PremiumAction.it" tvg-name="Premium Action HD IT" tvg-logo="http://pici.life/lg/IT/premiumactionhdit.png" group-title="Italy",Premium Action HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4352.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premium Action +24 IT" tvg-logo="http://pici.life/lg/IT/premiumaction24it.png" group-title="Italy",Premium Action +24 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4351.ts
+#EXTINF:-1 tvg-id="PremiumCrime.it" tvg-name="Premium Crime IT" tvg-logo="http://pici.life/lg/IT/premiumcrimehdit.png" group-title="Italy",Premium Crime IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4350.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premium Crime 24 IT" tvg-logo="http://pici.life/lg/IT/premiumcrime24it.png" group-title="Italy",Premium Crime 24 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9318.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premium Joy IT" tvg-logo="http://pici.life/lg/IT/premiumjoiit.png" group-title="Italy",Premium Joy IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4348.ts
+#EXTINF:-1 tvg-id="PremiumJoi.it" tvg-name="Premium Joy 24 IT" tvg-logo="http://pici.life/lg/IT/premiumjoi24it.png" group-title="Italy",Premium Joy 24 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4347.ts
+#EXTINF:-1 tvg-id="PremiumStories.it" tvg-name="Premium Stories IT" tvg-logo="http://pici.life/lg/IT/premiumstoriesit.png" group-title="Italy",Premium Stories IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4346.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- PrimaFila (Vetrina) -----" tvg-logo="" group-title="Italy",----- PrimaFila (Vetrina) -----
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/20507.ts
+#EXTINF:-1 tvg-id="Primafila1.it" tvg-name="Sky Primafila 1 HD IT" tvg-logo="http://pici.life/primafila1hd_2.png" group-title="Italy",Sky Primafila 1 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9348.ts
+#EXTINF:-1 tvg-id="Primafila2.it" tvg-name="Sky Primafila 2 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 2 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9347.ts
+#EXTINF:-1 tvg-id="Primafila3.it" tvg-name="Sky Primafila 3 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 3 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9346.ts
+#EXTINF:-1 tvg-id="Primafila4.it" tvg-name="Sky Primafila 4 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 4 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9345.ts
+#EXTINF:-1 tvg-id="Primafila5.it" tvg-name="Sky Primafila 5 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 5 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9344.ts
+#EXTINF:-1 tvg-id="Primafila6.it" tvg-name="Sky Primafila 6 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 6 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9343.ts
+#EXTINF:-1 tvg-id="Primafila7.it" tvg-name="Sky Primafila 7 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 7 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9342.ts
+#EXTINF:-1 tvg-id="Primafila8.it" tvg-name="Sky Primafila 8 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 8 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9341.ts
+#EXTINF:-1 tvg-id="Primafila9.it" tvg-name="Sky Primafila 9 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 9 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9340.ts
+#EXTINF:-1 tvg-id="Primafila10.it" tvg-name="Sky Primafila 10 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 10 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9339.ts
+#EXTINF:-1 tvg-id="Primafila11.it" tvg-name="Sky Primafila 11 FHD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 11 FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9338.ts
+#EXTINF:-1 tvg-id="Primafila12.it" tvg-name="Sky Primafila 12 FHD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 12 FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9337.ts
+#EXTINF:-1 tvg-id="Primafila13.it" tvg-name="Sky Primafila 13 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 13 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9336.ts
+#EXTINF:-1 tvg-id="Primafila14.it" tvg-name="Sky Primafila 14 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 14 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9335.ts
+#EXTINF:-1 tvg-id="Primafila15.it" tvg-name="Sky Primafila 15 FHD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 15 FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9334.ts
+#EXTINF:-1 tvg-id="Primafila16.it" tvg-name="Sky Primafila 16 FHD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 16 FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9333.ts
+#EXTINF:-1 tvg-id="Primafila17.it" tvg-name="Sky Primafila 17 FHD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 17 FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9332.ts
+#EXTINF:-1 tvg-id="Primafila18.it" tvg-name="Sky Primafila 18 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 18 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9331.ts
+#EXTINF:-1 tvg-id="Primafila19.it" tvg-name="Sky Primafila 19 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 19 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9330.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 20 FHD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 20 FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9329.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 21 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 21 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9328.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 22 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 22 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9327.ts
+#EXTINF:-1 tvg-id="" tvg-name="------- DOCUMENTARY -------" tvg-logo="" group-title="Italy",------- DOCUMENTARY -------
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/20508.ts
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="Nat Geo Wild FHD IT" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="Italy",Nat Geo Wild FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4296.ts
+#EXTINF:-1 tvg-id="NatGeoPeople.it" tvg-name="Nat Geo People FHD IT" tvg-logo="http://pici.life/natgeopeoplehd_2.png" group-title="Italy",Nat Geo People FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4297.ts
+#EXTINF:-1 tvg-id="DiscoveryTravelLiving.it" tvg-name="Discovery Travel and Living FHD IT" tvg-logo="http://pici.life/discoverytravelandlivinghd.png" group-title="Italy",Discovery Travel and Living FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4292.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel FHD IT" tvg-logo="http://pici.life/lg/IT/discoverychannelhd.png" group-title="Italy",Discovery Channel FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4294.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="Discovery Science HD IT" tvg-logo="http://pici.life/lg/IT/discoverysciencehd.png" group-title="Italy",Discovery Science HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13074.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation HD IT" tvg-logo="http://pici.life/crimeandinvest_2.png" group-title="Italy",Crime & Investigation HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13075.ts
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery IT" tvg-logo="http://pici.life/lg/IT/investigationdiscovery.png" group-title="Italy",Investigation Discovery IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13072.ts
+#EXTINF:-1 tvg-id="" tvg-name="History HD IT" tvg-logo="http://pici.life/lg/IT/historyhd.png" group-title="Italy",History HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9314.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.it" tvg-name="Animal Planet IT" tvg-logo="http://pici.life/lg/IT/animalplanet.png" group-title="Italy",Animal Planet IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9315.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marcopolo IT" tvg-logo="http://pici.life/lg/IT/marcopolo.png" group-title="Italy",Marcopolo IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9296.ts
+#EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus IT" tvg-logo="http://pici.life/lg/IT/focus.png" group-title="Italy",Focus IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9299.ts
+#EXTINF:-1 tvg-id="" tvg-name="Italian Fishing IT" tvg-logo="http://pici.life/lg/IT/Italian_fishing.png" group-title="Italy",Italian Fishing IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4379.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pesca & Caccia HD IT" tvg-logo="http://pici.life/lg/IT/cacciaepesca.png" group-title="Italy",Pesca & Caccia HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9311.ts
+#EXTINF:-1 tvg-id="CacciaPesca.it" tvg-name="Caccia & Pesca HD IT" tvg-logo="http://pici.life/lg/IT/cacciaepesca.png" group-title="Italy",Caccia & Pesca HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9312.ts
+#EXTINF:-1 tvg-id="" tvg-name="------- CHILDREN -------" tvg-logo="" group-title="Italy",------- CHILDREN -------
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/20509.ts
+#EXTINF:-1 tvg-id="DisneyXD.it" tvg-name="Disney XD IT" tvg-logo="http://pici.life/lg/IT/disneyxd.png" group-title="Italy",Disney XD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9304.ts
+#EXTINF:-1 tvg-id="DisneyChannel.it" tvg-name="Disney Channel HD IT" tvg-logo="http://pici.life/lg/IT/disney.png" group-title="Italy",Disney Channel HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9306.ts
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="http://pici.life/lg/IT/cartoonito.png" group-title="Italy",Cartoonito IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9308.ts
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="Baby TV IT" tvg-logo="http://pici.life/babytv_2.png" group-title="Italy",Baby TV IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9309.ts
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee HD IT" tvg-logo="http://pici.life/lg/IT/frisbee.png" group-title="Italy",Frisbee HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13073.ts
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="Dea Kids HD IT" tvg-logo="http://pici.life/lg/IT/dea_kids.png" group-title="Italy",Dea Kids HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13052.ts
+#EXTINF:-1 tvg-id="DeAJunior.it" tvg-name="Dea Junior HD IT" tvg-logo="http://pici.life/lg/IT/dea_junior.png" group-title="Italy",Dea Junior HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13053.ts
+#EXTINF:-1 tvg-id="MANGA.it" tvg-name="Man-Ga HD IT" tvg-logo="http://pici.life/lg/IT/Manga.Tv.png" group-title="Italy",Man-Ga HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13043.ts
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="http://pici.life/lg/IT/boing.png" group-title="Italy",Boing IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9303.ts
+#EXTINF:-1 tvg-id="DisneyJunior.it" tvg-name="Disney Junior IT" tvg-logo="http://pici.life/lg/IT/disneyjr.png" group-title="Italy",Disney Junior IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9305.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network IT" tvg-logo="http://pici.life/lg/IT/cartoonnetwork.png" group-title="Italy",Cartoon Network IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9307.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super! IT" tvg-logo="http://pici.life/lg/IT/super.png" group-title="Italy",Super! IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9302.ts
+#EXTINF:-1 tvg-id="" tvg-name="----- Slow Internet Customers -----" tvg-logo="" group-title="Italy",----- Slow Internet Customers -----
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/20510.ts
+#EXTINF:-1 tvg-id="SkySupercalcio.it" tvg-name="Sky Supercalcio IT" tvg-logo="http://pici.life/lg/IT/Sky_Supercalcio.png" group-title="Italy",Sky Supercalcio IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13371.ts
+#EXTINF:-1 tvg-id="SkySupercalcio.it" tvg-name="Sky Supercalcio HD IT" tvg-logo="http://pici.life/lg/IT/skysupercalciohd.png" group-title="Italy",Sky Supercalcio HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13062.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic HD IT" tvg-logo="http://pici.life/lg/IT/skyatlantichd.png" group-title="Italy",Sky Atlantic HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4343.ts
+#EXTINF:-1 tvg-id="FoxCrime.it" tvg-name="Fox Crime HD IT" tvg-logo="http://pici.life/lg/IT/foxcrimehd.png" group-title="Italy",Fox Crime HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4340.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN IT" tvg-logo="http://pici.life/axn_2.png" group-title="Italy",AXN IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4337.ts
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema 1 IT" tvg-logo="http://pici.life/lg/IT/skycinema1hd-phibruspel.png" group-title="Italy",Sky Cinema 1 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4376.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canale 8 IT" tvg-logo="http://pici.life/lg/IT/tv8canale8.jpg" group-title="Italy",Canale 8 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13078.ts
+#EXTINF:-1 tvg-id="ClassHorseTV.it" tvg-name="Class Horse Tv HD IT" tvg-logo="http://pici.life/lg/IT/Class_horse.png" group-title="Italy",Class Horse Tv HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13076.ts
+#EXTINF:-1 tvg-id="" tvg-name="CTS TV IT" tvg-logo="http://pici.life/lg/IT/cts.png" group-title="Italy",CTS TV IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13060.ts
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000 IT" tvg-logo="http://pici.life/lg/IT/tv2000.png" group-title="Italy",TV2000 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9292.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 IT" tvg-logo="http://pici.life/lg/IT/eurosport1.png" group-title="Italy",Eurosport 1 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4321.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 IT" tvg-logo="http://pici.life/lg/IT/eurosport2.png" group-title="Italy",Eurosport 2 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4320.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fine Living IT" tvg-logo="http://pici.life/fineliving_2.png" group-title="Italy",Fine Living IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4378.ts
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://pici.life/lg/IT/mediasetextra.png" group-title="Italy",Mediaset Extra IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9317.ts
+#EXTINF:-1 tvg-id="" tvg-name="Moto GP Live 2 IT" tvg-logo="http://pici.life/all/Logo-motogp.png" group-title="Sports",Moto GP Live 2 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/7104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Moto GP Live 3 IT" tvg-logo="http://pici.life/all/Logo-motogp.png" group-title="Sports",Moto GP Live 3 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/7103.ts
+#EXTINF:-1 tvg-id="MTVMusic.it" tvg-name="MTV Music IT" tvg-logo="http://pici.life/mtvmusic.png" group-title="Italy",MTV Music IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9297.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canale 21 IT" tvg-logo="http://pici.life/lg/IT/napoli_canale_21.png" group-title="Italy",Canale 21 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13077.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior HD IT" tvg-logo="http://pici.life/lg/IT/Nick_Jr._HD.png" group-title="Italy",Nick Junior HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13071.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount IT" tvg-logo="http://pici.life/paramountchannel_2.png" group-title="Italy",Paramount IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4353.ts
+#EXTINF:-1 tvg-id="PremiumCinemaEmotion.it" tvg-name="Premium Cinema Emotion IT" tvg-logo="http://pici.life/lg/IT/premiumcinemaemotionit.png" group-title="Italy",Premium Cinema Emotion IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4356.ts
+#EXTINF:-1 tvg-id="PremiumCinemaEnergy.it" tvg-name="Premium Cinema Energy IT" tvg-logo="http://pici.life/lg/IT/premiumcinemaenergyit.png" group-title="Italy",Premium Cinema Energy IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4357.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Capital IT" tvg-logo="http://pici.life/lg/IT/radiocapital.png" group-title="Italy",Radio Capital IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13068.ts
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time IT" tvg-logo="http://pici.life/lg/IT/realtimehd.png" group-title="Italy",Real Time IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9295.ts
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 IT" tvg-logo="http://pici.life/lg/IT/rainews24.png" group-title="Italy",Rai News 24 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9326.ts
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport 1 HD IT" tvg-logo="http://pici.life/lg/IT/raisport.png" group-title="Italy",Rai Sport 1 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4394.ts
+#EXTINF:-1 tvg-id="" tvg-name="RSi La 1 IT" tvg-logo="http://pici.life/lg/IT/rsila1.png" group-title="Italy",RSi La 1 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4385.ts
+#EXTINF:-1 tvg-id="" tvg-name="RSi La 2 HD IT" tvg-logo="http://pici.life/lg/IT/rsila2.png" group-title="Italy",RSi La 2 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4384.ts
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport 2 IT" tvg-logo="http://pici.life/lg/IT/raisport.png" group-title="Italy",Rai Sport 2 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9324.ts
+#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL102.5 IT" tvg-logo="http://pici.life/lg/IT/RTL_102.5.png" group-title="Italy",RTL102.5 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9293.ts
+#EXTINF:-1 tvg-id="SkyCinemaPassion.it" tvg-name="Sky Passion 1 IT" tvg-logo="http://pici.life/lg/IT/skycinemapassionhd-phibruspel.png" group-title="Italy",Sky Passion 1 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4369.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA  IT" tvg-logo="http://pici.life/lg/IT/Sky_Sport_Plus.png" group-title="Italy",Sky Sport NBA  IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4327.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24 HD IT" tvg-logo="http://pici.life/lg/IT/skytg24hd.png" group-title="Italy",Sky TG24 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9323.ts
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno IT" tvg-logo="http://pici.life/lg/IT/skyunohd.png" group-title="Italy",Sky Uno IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4344.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Calcio IT" tvg-logo="http://pici.life/skysupercalciohd.png" group-title="Italy",Super Calcio IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/4318.ts
+#EXTINF:-1 tvg-id="" tvg-name="Video Lina IT" tvg-logo="http://pici.life/lg/IT/VIDEOLINA.png" group-title="Italy",Video Lina IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/9316.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canale 7 IT" tvg-logo="http://pici.life/lg/IT/canale_7.png" group-title="Italy",Canale 7 IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/13057.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset 20 HD IT" tvg-logo="" group-title="Italy",Mediaset 20 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/37945.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD IT" tvg-logo="" group-title="Italy",Boomerang HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/43706.ts
+#EXTINF:-1 tvg-id="" tvg-name="Classica HD IT" tvg-logo="" group-title="Italy",Classica HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/43707.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dove TV HD IT" tvg-logo="" group-title="Italy",Dove TV HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD IT" tvg-logo="" group-title="Italy",Nat Geo HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD IT" tvg-logo="" group-title="Italy",Nickelodeon HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46121.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Classica HD IT" tvg-logo="" group-title="Italy",SKY Classica HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46119.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Moto GP HD IT" tvg-logo="" group-title="Italy",Sky Moto GP HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf HD IT" tvg-logo="" group-title="Italy",Sky Sport Golf HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46126.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alpha FHD IT" tvg-logo="" group-title="Italy",Alpha FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46559.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blaze +1 HD IT" tvg-logo="" group-title="Italy",Blaze +1 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46560.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blaze FHD IT" tvg-logo="" group-title="Italy",Blaze FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46561.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blaze HD IT" tvg-logo="" group-title="Italy",Blaze HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46562.ts
+#EXTINF:-1 tvg-id="" tvg-name="CI Crime Investigation +1 HD IT" tvg-logo="" group-title="Italy",CI Crime Investigation +1 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46564.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sony IT" tvg-logo="" group-title="Italy",Cine Sony IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46545.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fignt Network Italia IT" tvg-logo="" group-title="Italy",Fignt Network Italia IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46565.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network IT" tvg-logo="" group-title="Italy",Food Network IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Freesbe SD IT" tvg-logo="" group-title="Italy",Freesbe SD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46546.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigation SD IT" tvg-logo="" group-title="Italy",ID Investigation SD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46551.ts
+#EXTINF:-1 tvg-id="" tvg-name="La 5 SD IT" tvg-logo="" group-title="Italy",La 5 SD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46547.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 7 HD IT" tvg-logo="" group-title="Italy",LA 7 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset SD IT" tvg-logo="" group-title="Italy",Mediaset SD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46563.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motor Trend SD IT" tvg-logo="" group-title="Italy",Motor Trend SD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46567.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD IT" tvg-logo="" group-title="Italy",MTV FHD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46543.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD IT" tvg-logo="" group-title="Italy",MTV HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nove HD IT" tvg-logo="" group-title="Italy",Nove HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46549.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premium Comedy HD IT" tvg-logo="" group-title="Italy",Premium Comedy HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premium Energy HD IT" tvg-logo="" group-title="Italy",Premium Energy HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46569.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema +1 HD IT" tvg-logo="" group-title="Italy",Sky Cinema +1 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Classics HD IT" tvg-logo="" group-title="Italy",Sky Cinema Classics HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Spike IT" tvg-logo="" group-title="Italy",Spike IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46571.ts
+#EXTINF:-1 tvg-id="" tvg-name="TG com 24 SD IT" tvg-logo="" group-title="Italy",TG com 24 SD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46557.ts
+#EXTINF:-1 tvg-id="" tvg-name="TG Norba 24 SD IT" tvg-logo="" group-title="Italy",TG Norba 24 SD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Top Calcio 24 SD IT" tvg-logo="" group-title="Italy",Top Calcio 24 SD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46572.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uniresat HD IT" tvg-logo="" group-title="Italy",Uniresat HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46558.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film Premier IT" tvg-logo="" group-title="Italy",Film Premier IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46573.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema +24 HD IT" tvg-logo="" group-title="Italy",Sky Cinema +24 HD IT
+http://mypanel.tv:8080/live/o6c8cjfg09/tgdxo85h5h/46541.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | 2:22 (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDQyMTUyMDExNl5BMl5BanBnXkFtZTgwODkxODEyMjI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | 2:22 (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16989.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Baby Driver (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Baby Driver (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Cross Wars (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNWJmZTExNDctMjRiMC00YWM1LWI5ZTEtMWRjMzI5ODMzY2I2XkEyXkFqcGdeQXVyNjUyNDkyMjQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Cross Wars (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Descendants 2 (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI5MTA4MTk2N15BMl5BanBnXkFtZTgwNjY2NDUwMjI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Descendants 2 (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Dunkirk (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Dunkirk (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Extortion (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYTE4MzA4NWEtNTI2NC00MzFlLWIzMTMtMzQzMDVkYjhlZmU0XkEyXkFqcGdeQXVyOTE2MTYxOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Extortion (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Geostorm (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0OTQwMTIxNzheQTJeQWpwZ15BbWU4MDQ1MzI3OTMy._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="VOD Italy",IT | Action | Geostorm (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Ghost in the Shell (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Ghost in the Shell (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16995.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | John Wick: Chapter 2 (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | John Wick: Chapter 2 (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | King Arthur: Legend of the Sword (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3ODY3Njc5Ml5BMl5BanBnXkFtZTgwMjQ5NjM5MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | King Arthur: Legend of the Sword (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Pirates of the Caribbean: Dead Men Tell No Tales (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Smetto Quando Voglio: Masterclass (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2MmY5ZmQtZWU4MC00OGM3LWIwYWYtMzA0ZTY0YjMwOTEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Smetto Quando Voglio: Masterclass (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/6928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Sniper: Ultimate Kill (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYjVmYWRmYjgtODEyNS00ZTgwLTg5NDYtMDcyNzQ3ZGUyOGUyXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Sniper: Ultimate Kill (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Spider-Man: Homecoming (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Spider-Man: Homecoming (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | The Adventurers (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZWI1Zjc0NWItZmZmZC00ZDllLThjZDYtNDViYTFkYzA5MWY2XkEyXkFqcGdeQXVyMTk0NTY2ODQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | The Adventurers (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Transformers: The Last Knight (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3OTI3MDk4N15BMl5BanBnXkFtZTgwNDg2ODIyMjI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Transformers: The Last Knight (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Adventure | 47 Meters Down (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BOGJlNDJkZmEtMjUwNS00ZWViLWIyZGEtN2Y5ZjZlNDE1NWJkXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Adventure | 47 Meters Down (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Biography | Kiss and Cry (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNmViYTJkNmUtZGNmNS00NTk4LWJlMTEtNzA1MzA3ZDU1ZTQ4XkEyXkFqcGdeQXVyMjEyMDYzNjc@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Biography | Kiss and Cry (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/17001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Beata ignoranza (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMGY3MDdiYmUtMjM3Ni00YjlmLWI1YmItN2QzNGU2MzRkMDVjL2ltYWdlXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Comedy | Beata ignoranza (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Crash Pad (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NTM1MDcwNV5BMl5BanBnXkFtZTgwODQ1ODY3MzI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Comedy | Crash Pad (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16007.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | El Camino Christmas (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BODk3MzY0MDkyM15BMl5BanBnXkFtZTgwNzUxNzMyNDM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Comedy | El Camino Christmas (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Going in Style (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5Mzg3NjI4OF5BMl5BanBnXkFtZTgwNzA3Mzg4MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Comedy | Going in Style (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16998.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Killing Hasselhoff (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NjAzNDg4MV5BMl5BanBnXkFtZTgwMzc2ODc4MjI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Comedy | Killing Hasselhoff (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/17000.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Little Evil (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0NTM2NzQ0Ml5BMl5BanBnXkFtZTgwMjc4MTAzMzI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Comedy | Little Evil (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/17005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | The Incredible Jessica James (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxODczMTQ2Ml5BMl5BanBnXkFtZTgwNDI1ODA5MjI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Comedy | The Incredible Jessica James (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/17002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Crime | Good Time (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNGQ3Y2VjNmUtMDdiMC00YTE1LWI5NmUtZDIzMTJmODQyNDU4XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Crime | Good Time (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Crime | The Book of Henry (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ3MjI4OTU1Ml5BMl5BanBnXkFtZTgwMTgwODcyMjI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Crime | The Book of Henry (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Gifted (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ2NDU3NDE0M15BMl5BanBnXkFtZTgwMjA3OTg0MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | Gifted (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Mother! (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | Mother! (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Pray for Rain (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BOWY4NjE1OTYtYTliNC00ZDNmLTg5YmMtNDhkYTU5YTNmZDgzXkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | Pray for Rain (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/17009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Rings (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNjU1NDAxNTg0MF5BMl5BanBnXkFtZTgwNzUxMjEwMTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | Rings (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16757.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | T2 Trainspotting (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0MTE1ODkzMl5BMl5BanBnXkFtZTgwMTQ1MTg5MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | T2 Trainspotting (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | The Girl from the Song (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNmFmOGRlMGMtY2RkNy00MGI3LTkwYTktNGFjY2JkYjlmOGUyXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | The Girl from the Song (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16013.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | This Is Our Land (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDA5ZDY1YzQtM2EzNi00NmFhLWFlMGYtZmMwNjJlOGZlZTczL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDM3NTI5MzA@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | This Is Our Land (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16991.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Family | Beauty and the Beast (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Family | Beauty and the Beast (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Family | Max 2: White House Hero (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZTljYTVjNWQtZGRkMS00M2I3LWFhMDMtZmQ1M2E3ZWEwYjA1XkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Family | Max 2: White House Hero (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/17007.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Fantasy | Dragonheart: Battle for the Heartfire (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyODc5MGMtYTI4MS00ZTM2LTk0ODYtODQ2ZjIxNTM5MDBmXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Fantasy | Dragonheart: Battle for the Heartfire (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Fantasy | La ragazza dei miei sogni (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZWNhOGFmZjItNjQxNS00ZTVkLTk5YjctYzQ3MGE3YmRlMGVkXkEyXkFqcGdeQXVyNzI1MTQzNjA@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Fantasy | La ragazza dei miei sogni (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Fantasy | Wish Upon (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BOGQxN2NlMWItNzMyOC00ODYxLThkNDktMWQ0ZjA2MjQyYjIwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Fantasy | Wish Upon (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Horror | Annabelle: Creation (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MzIwMjMxNF5BMl5BanBnXkFtZTgwMDQ3NTc2MjI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Horror | Annabelle: Creation (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Horror | Cult of Chucky (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTA5NTMyN2UtMDBmOC00YzVlLWIzZTEtNTM0YjZmY2E4YjYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Horror | Cult of Chucky (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16996.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Horror | Happy Death Day (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0ODMyNjk1NF5BMl5BanBnXkFtZTgwNDkxOTk4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Horror | Happy Death Day (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Thriller | The Invisible Guardian (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYjI1ZTI5YjYtZjI2MS00OTBjLWIyYzUtMDMxYmQzNjM4Y2JiL2ltYWdlXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Thriller | The Invisible Guardian (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Crime | La ragazza nella nebbia (2017)" tvg-logo="http://mypanel.tv:8080/images/6892400.jpg" group-title="VOD Italy",IT | Crime | La ragazza nella nebbia (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/19459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Falcon Rising (2014)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1OTkyMzUyN15BMl5BanBnXkFtZTgwNjI0MTUzMjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Falcon Rising (2014)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Masterminds (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Masterminds (2016)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/17006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Mighty Morphin Power Rangers: The Movie (1995)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BN2I2Y2I5N2MtMzJhMy00NzE2LThlMzEtNGE0ODA4M2JhOWNiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Mighty Morphin Power Rangers: The Movie (1995)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Reign of Fire (2002)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMTUxNTMxNV5BMl5BanBnXkFtZTYwODg2ODU3._V1_UY1200_CR97,0,630,1200_AL_.jpg" group-title="VOD Italy",IT | Action | Reign of Fire (2002)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Sinister Squad (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0ODdjYTgtOGE1Ni00YWVkLTgzMDAtNTA5ZmE4YmY1ODFiXkEyXkFqcGdeQXVyMjU1NTM4NDU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Sinister Squad (2016)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | The Monster Squad (1987)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BOTk2OTFlYmQtYzVkNy00ZjM5LThkOGMtOTg0Y2JmZGYwOWY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | The Monster Squad (1987)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | The Mummy (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BODg1NTIxMzEtM2NmMi00MDQ2LWE5YjYtZTgxYmNhZTQxYWIzXkEyXkFqcGdeQXVyNDYzODU1ODM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | The Mummy (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/17003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | They Call Me Jeeg (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1OTNjNDEtN2M3Zi00MDQ1LWJjZTktN2Y4NGFhNzZiYzg5XkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | They Call Me Jeeg (2015)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/4712.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Turbo: A Power Rangers Movie (1997)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTA2OTc1MzMxNDheQTJeQWpwZ15BbWU3MDM4ODc1MjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Turbo: A Power Rangers Movie (1997)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Warcraft: The Beginning (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIwNTM0Mzc5MV5BMl5BanBnXkFtZTgwMDk5NDU1ODE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Action | Warcraft: The Beginning (2016)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Adventure | Death Note: The Last Name (2006)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYTBmZDU1YTgtMjkxNi00ODE2LTgwNjktODE2ZjI3YjI1MDAzXkEyXkFqcGdeQXVyMjQ1NjEyNzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Adventure | Death Note: The Last Name (2006)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Adventure | I am Dragon (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMGU5ODA3MTktMDNmMC00ODc2LWJkMzAtOTAwMWNlMDZmOTE4XkEyXkFqcGdeQXVyNDkzODA5MDY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Adventure | I am Dragon (2015)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Adventure | Miss Peregrine's Home for Peculiar Children (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0Nzc5NzI5NV5BMl5BanBnXkFtZTgwNTk1MDE4MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Adventure | Miss Peregrine's Home for Peculiar Children (2016)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Adventure | Molly Moon and the Incredible Book of Hypnotism (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzgxMzgyMzY3Ml5BMl5BanBnXkFtZTgwODIyMjc0NjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Adventure | Molly Moon and the Incredible Book of Hypnotism (2015)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Adventure | Strana khoroshikh detochek (2013)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYjJiNDFjZGQtM2YzMS00YjljLWI4ZWYtMThlMjYzMTVlNjJjXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Adventure | Strana khoroshikh detochek (2013)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Adventure | The Lord of the Rings: The Return of the King (2003)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYWY1ZWQ5YjMtMDE0MS00NWIzLWE1M2YtODYzYTk2OTNlYWZmXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Adventure | The Lord of the Rings: The Return of the King (2003)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Adventure | The Lord of the Rings: The Two Towers (2002)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMDY0NmI4ZjctN2VhZS00YzExLTkyZGItMTJhOTU5NTg4MDU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Adventure | The Lord of the Rings: The Two Towers (2002)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Adventure | The Secret of Arkandias (2014)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BOGRjMzExZDktYjMxZi00ZTc2LTkyZjctZTc1NjNhN2FkM2NlXkEyXkFqcGdeQXVyMzg0MjA1NTc@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Adventure | The Secret of Arkandias (2014)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Adventure | Valley of Knights - Mira's Magical Christmas (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3OTM2MTI2N15BMl5BanBnXkFtZTgwMTE0MTM2NzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Adventure | Valley of Knights - Mira's Magical Christmas (2015)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Biography | Maudie (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0NTQzMDY3NV5BMl5BanBnXkFtZTgwMDQ2Mzg0MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Biography | Maudie (2016)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Ever After: A Cinderella Story (1998)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BN2FhYTY5ODItOGU4OC00MTkyLTlmYTMtYjIxN2Y4MmVlMDVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Comedy | Ever After: A Cinderella Story (1998)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Je fais le mort (2013)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NzYxNTk4MF5BMl5BanBnXkFtZTgwNDUxOTg1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Comedy | Je fais le mort (2013)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Non si ruba a casa dei ladri (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNzkxNWVkOTYtOWQ3ZC00OGJlLTg0YmYtNjFiNDRkNmJjNDk2XkEyXkFqcGdeQXVyMTMzMDMyNw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Comedy | Non si ruba a casa dei ladri (2016)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/17008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Perfect Strangers (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDQzZmQ5MjItYmJlNy00MGI2LWExMDQtMjBiNjNmMzc5NTk1XkEyXkFqcGdeQXVyNjY1OTY4MTk@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Comedy | Perfect Strangers (2016)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/4496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Crime | Death Note (2006)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZDNlNjEzMzQtZDM0MS00YzhiLTk0MGUtYTdmNDZiZGVjNTk0L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Crime | Death Note (2006)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Crime | Death Note: Light Up the New World (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNjA5YmJkY2MtZTk3OS00N2MxLWJmODAtYjgxZjEwOTNmNDJkXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Crime | Death Note: Light Up the New World (2016)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Crime | Patriots Day (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BODYxMDc0NTg2Nl5BMl5BanBnXkFtZTgwNjY0NDYzOTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Crime | Patriots Day (2016)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Crime | Pusher (2012)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1MDIwOTM1MF5BMl5BanBnXkFtZTcwNDQ4NzA1OA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Crime | Pusher (2012)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Crime | The Girl on the Train (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNzFlMjA0ZmUtZWI0Mi00ZGJkLTlmMmYtZmE1ODZiMjhjMGM0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Crime | The Girl on the Train (2016)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/17004.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | All Ladies Do It (1992)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNTYxZWVkYjAtZDg3Zi00OTViLWI2ZjYtODc3MTA4Njc3M2Y4XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | All Ladies Do It (1992)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/7401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Anguish (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BOTE4Njc3NzU0OF5BMl5BanBnXkFtZTgwMTc3NjYyNzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | Anguish (2015)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Dear John (2010)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NDEzMTU5NV5BMl5BanBnXkFtZTcwNTI3MTk5Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | Dear John (2010)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Incantato (2003)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwNDYxODg5M15BMl5BanBnXkFtZTcwODY1NzIzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | Incantato (2003)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | One Day (2011)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NTg2MDI3NF5BMl5BanBnXkFtZTcwMjc5MTA1NA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | One Day (2011)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Paprika (1991)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZWMxYzA4NzEtYWZmMi00NjlmLThmZTItYjM0MDJiN2ZhZWZlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | Paprika (1991)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/7658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Umberto D. (1952)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0ZjgwOTEtYjY1MC00NGQ1LWI2YjAtYmM1MWNlMGZkM2NmXkEyXkFqcGdeQXVyMTIyNzY1NzM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Drama | Umberto D. (1952)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Fantasy | Arthur & Merlin (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDVkYjQ3ZmMtNTRhZS00YTFiLTg5MzYtMmEzYTRlNjQzZmYyXkEyXkFqcGdeQXVyMjI2NTc0NTM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Fantasy | Arthur & Merlin (2015)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/16290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Horror | It (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Horror | It (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Horror | XX (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BM2U5NzlhMGYtODUzOS00Nzk0LWE1YTYtZDE0YzMwMzI0ODJlXkEyXkFqcGdeQXVyNjY0MjcwODM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Horror | XX (2017)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/17010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Romance | Sweet Dreams (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMmM1NDllZGItYzM4OC00MzM5LTgzM2EtZTE2ZGM5ODFmODhlXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Romance | Sweet Dreams (2016)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/11479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Romance | The Twelve Trees of Christmas (2013)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2ODI0NTQ5M15BMl5BanBnXkFtZTgwOTkyMjg2MDE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Italy",IT | Romance | The Twelve Trees of Christmas (2013)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/15909.avi
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Fantozzi 2000 - La clonazione" tvg-logo="http://mypanel.tv:8080/images/9WNOe35Fmrva1fSZWvKsGO7U9GB_small.jpg" group-title="VOD Italy",IT | Comedy | Fantozzi 2000 - La clonazione
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/50641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Fantozzi To The Rescue 1990" tvg-logo="http://mypanel.tv:8080/images/iJz5rZScUrsD0p9hnTEkTHxCeSy_small.jpg" group-title="VOD Italy",IT | Comedy | Fantozzi To The Rescue 1990
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/50642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Berlin Calling (2008)" tvg-logo="http://mypanel.tv:8080/images/ut36GgrLVyq7D5DqAmPWbDTqkT6_small.jpg" group-title="VOD Italy",IT | Comedy | Berlin Calling (2008)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Fantozzi - White Collar Blues (1975)" tvg-logo="http://mypanel.tv:8080/images/oHqHe0MNqcbmw5Qa3075KIzE4G7_small.jpg" group-title="VOD Italy",IT | Comedy | Fantozzi - White Collar Blues (1975)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Fantozzi Against the Wind (1980)" tvg-logo="http://mypanel.tv:8080/images/lYxZNqfeaUbhjLQIj0gSvYHlUzz_small.jpg" group-title="VOD Italy",IT | Comedy | Fantozzi Against the Wind (1980)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Fantozzi in Heaven (1993)" tvg-logo="http://mypanel.tv:8080/images/g4iKZ7XAA6SYcOv0fmtA3WFllcd_small.jpg" group-title="VOD Italy",IT | Comedy | Fantozzi in Heaven (1993)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Fantozzi Retires (1988)" tvg-logo="http://mypanel.tv:8080/images/7dnHgK1MIjMfZkkKvm0zJ5OCz9f_small.jpg" group-title="VOD Italy",IT | Comedy | Fantozzi Retires (1988)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Fantozzi Still Suffers (1983)" tvg-logo="http://mypanel.tv:8080/images/qpg9p8l5leIFQN5gHd3e4hTCJMN_small.jpg" group-title="VOD Italy",IT | Comedy | Fantozzi Still Suffers (1983)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Fantozzi To The Rescue (1990)" tvg-logo="http://mypanel.tv:8080/images/iJz5rZScUrsD0p9hnTEkTHxCeSy_small.jpg" group-title="VOD Italy",IT | Comedy | Fantozzi To The Rescue (1990)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | IL ritorno _ Fantozzi The Return (1996)" tvg-logo="http://mypanel.tv:8080/images/cf2oXrgY0pvmytVFzxclSc3g9t_small.jpg" group-title="VOD Italy",IT | Comedy | IL ritorno _ Fantozzi The Return (1996)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | IL Secondo tragico Fantozzi - The Second Tragic Fantozzi (1976)" tvg-logo="http://mypanel.tv:8080/images/aXGUEPB9TzN9yFOzkdS9NTcge99_small.jpg" group-title="VOD Italy",IT | Comedy | IL Secondo tragico Fantozzi - The Second Tragic Fantozzi (1976)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | La signora gioca bene a scopa  - Poker in Bed (1974)" tvg-logo="http://mypanel.tv:8080/images/w7x4o2Zbmppds895VbQxVNm9OZc_small.jpg" group-title="VOD Italy",IT | Comedy | La signora gioca bene a scopa  - Poker in Bed (1974)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Nude per l assassino  - Strip Nude for Your Killer (1975)" tvg-logo="http://mypanel.tv:8080/images/gjhtSbNLTysAYHzNc6xqNGm5SrI_small.jpg" group-title="VOD Italy",IT | Comedy | Nude per l assassino  - Strip Nude for Your Killer (1975)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Pierino Colpisce Ancora - Desirable Teacher 2 (1982)" tvg-logo="http://mypanel.tv:8080/images/23t7cStvuaHiVG2pNgOmPLOkXH8_small.jpg" group-title="VOD Italy",IT | Comedy | Pierino Colpisce Ancora - Desirable Teacher 2 (1982)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Pierino contro tutti -  Desirable Teacher (1981)" tvg-logo="http://mypanel.tv:8080/images/oaxGMl1qX4Z9BhuwPPcEInEXxba_small.jpg" group-title="VOD Italy",IT | Comedy | Pierino contro tutti -  Desirable Teacher (1981)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Pierino il fichissimo (1981)" tvg-logo="http://mypanel.tv:8080/images/oaxGMl1qX4Z9BhuwPPcEInEXxba_small.jpg" group-title="VOD Italy",IT | Comedy | Pierino il fichissimo (1981)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Superfantozzi (1986)" tvg-logo="http://mypanel.tv:8080/images/7XFrSclEKZ0Az16HYiLbOaANNHm_small.jpg" group-title="VOD Italy",IT | Comedy | Superfantozzi (1986)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Uomo d'acqua dolce (1996)" tvg-logo="http://mypanel.tv:8080/images/qfLwGfgLwiQHCUYQ4YTn3Fr7TM9_small.jpg" group-title="VOD Italy",IT | Comedy | Uomo d'acqua dolce (1996)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/51136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | The Place 2017" tvg-logo="http://mypanel.tv:8080/images/khRTNEhjyHshdF64n9s0TViRIPH_small.jpg" group-title="VOD Italy",IT | Drama | The Place 2017
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/53206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Horror | The End 2017" tvg-logo="http://mypanel.tv:8080/images/khRTNEhjyHshdF64n9s0TViRIPH_small.jpg" group-title="VOD Italy",IT | Horror | The End 2017
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/53207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Il trucido e lo sbirro 1976" tvg-logo="http://mypanel.tv:8080/images/iUcOpSyzsoQQUxWDe6VxFS60j6c_small.jpg" group-title="VOD Italy",IT | Action | Il trucido e lo sbirro 1976
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | La belva col mitra 1977" tvg-logo="http://mypanel.tv:8080/images/9GOh1xy3VeVnQUZ3QKcGr7yXtiC_small.jpg" group-title="VOD Italy",IT | Action | La belva col mitra 1977
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Like Rabid Dogs (1976)" tvg-logo="http://mypanel.tv:8080/images/chpzq8bcAiuHnTBG9AinYvxKAXE_small.jpg" group-title="VOD Italy",IT | Action | Like Rabid Dogs (1976)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Milano Calibro 9 1972" tvg-logo="http://mypanel.tv:8080/images/7eEUjZYvKZJ9ufhMzpEUFSvYI70_small.jpg" group-title="VOD Italy",IT | Action | Milano Calibro 9 1972
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Action | Roma a mano armata 1976" tvg-logo="http://mypanel.tv:8080/images/fQnlJuEe5hqbXKSUJndgYLIwdvM_small.jpg" group-title="VOD Italy",IT | Action | Roma a mano armata 1976
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | L'affittacamere 1976" tvg-logo="http://mypanel.tv:8080/images/2RdIaLEFttFMyopWh3rW0IiPYtb_small.jpg" group-title="VOD Italy",IT | Comedy | L'affittacamere 1976
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | L'infermiera nella corsia dei militari 1979" tvg-logo="http://mypanel.tv:8080/images/f726NN9qy89jDxlMdzQH42IO0ZE_small.jpg" group-title="VOD Italy",IT | Comedy | L'infermiera nella corsia dei militari 1979
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | L'insegnante va in collegio 1978" tvg-logo="http://mypanel.tv:8080/images/l2uwLyEEH5LHLBPP8RYnLmaWuj7_small.jpg" group-title="VOD Italy",IT | Comedy | L'insegnante va in collegio 1978
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | L'uomo dal pennello d'oro 1969" tvg-logo="http://mypanel.tv:8080/images/tVogJPjbeENi2xbAtRTww79MELc_small.jpg" group-title="VOD Italy",IT | Comedy | L'uomo dal pennello d'oro 1969
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | La bella Antonia, prima Monica e poi Dimonia 1972" tvg-logo="http://mypanel.tv:8080/images/qyu4xRnEAd4tBTt0BDdTWZyj6yo_small.jpg" group-title="VOD Italy",IT | Comedy | La bella Antonia, prima Monica e poi Dimonia 1972
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | La moglie in bianco... l'amante al pepe 1982" tvg-logo="http://mypanel.tv:8080/images/xpRwfJPaX5OCffXZevDar8AsIBq_small.jpg" group-title="VOD Italy",IT | Comedy | La moglie in bianco... l'amante al pepe 1982
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | La moglie vergine 1975" tvg-logo="http://mypanel.tv:8080/images/hM2R0z0DTZbqarTm604xXYsMzQE_small.jpg" group-title="VOD Italy",IT | Comedy | La moglie vergine 1975
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Miranda 1985" tvg-logo="http://mypanel.tv:8080/images/oLb5FuAoHpu8PAjr25ioie0k3jo_small.jpg" group-title="VOD Italy",IT | Comedy | Miranda 1985
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Paulo Roberto - Lady Football 1983" tvg-logo="http://mypanel.tv:8080/images/3EJYRlkI7mxzKqUNjIlIR1SATOm_small.jpg" group-title="VOD Italy",IT | Comedy | Paulo Roberto - Lady Football 1983
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Rimini Rimini - Un anno dopo 1988" tvg-logo="http://mypanel.tv:8080/images/t0behumM8V9LPPGy1KBaN35ADFz_small.jpg" group-title="VOD Italy",IT | Comedy | Rimini Rimini - Un anno dopo 1988
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Rimini Rimini 1987" tvg-logo="http://mypanel.tv:8080/images/qLbD1jBiwM5EklOQt8jLcMtyLHS_small.jpg" group-title="VOD Italy",IT | Comedy | Rimini Rimini 1987
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Comedy | Grazie… Nonna 1975" tvg-logo="http://mypanel.tv:8080/images/buJxkel5gXFhDb19aAJwS8BJce8_small.jpg" group-title="VOD Italy",IT | Comedy | Grazie… Nonna 1975
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Crime | La mala ordina 1972" tvg-logo="http://mypanel.tv:8080/images/iUKz4umHeIRW1SurToK2i2qmb9T_small.jpg" group-title="VOD Italy",IT | Crime | La mala ordina 1972
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Crime | La polizia incrimina la legge assolve 1973" tvg-logo="http://mypanel.tv:8080/images/dbr3qb1RCqeaV9U39yvnTp8ifQh_small.jpg" group-title="VOD Italy",IT | Crime | La polizia incrimina la legge assolve 1973
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Gomorrah (2008)" tvg-logo="http://mypanel.tv:8080/images/6aVJi30jxywKXbrpcBD11AuVoKv_small.jpg" group-title="VOD Italy",IT | Drama | Gomorrah (2008)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Il futuro è donna 1984" tvg-logo="http://mypanel.tv:8080/images/aGiX7DjsDlWOB0yKR6ydsIjMA7t_small.jpg" group-title="VOD Italy",IT | Drama | Il futuro è donna 1984
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Il Macellaio 1998" tvg-logo="http://mypanel.tv:8080/images/vlrdjAuPhDhZc68SdZvFE6ztYXA_small.jpg" group-title="VOD Italy",IT | Drama | Il Macellaio 1998
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Malena 2000" tvg-logo="http://mypanel.tv:8080/images/6T3CqD4hS6xf5dnuAXcrYMsVtzR_small.jpg" group-title="VOD Italy",IT | Drama | Malena 2000
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Mia nipote... la vergine 1969" tvg-logo="http://mypanel.tv:8080/images/dqbMNXywtOkRqHSwnEFX4aG3Nwz_small.jpg" group-title="VOD Italy",IT | Drama | Mia nipote... la vergine 1969
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Padre Pio 2000" tvg-logo="http://mypanel.tv:8080/images/oS3opnV1Wnl4aQCMAnQxYwAV6m1_small.jpg" group-title="VOD Italy",IT | Drama | Padre Pio 2000
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | I peccati di Madame Bovary 1969" tvg-logo="http://mypanel.tv:8080/images/nFVjWM6Dnmb9BEYuZQLxFx7aMTK_small.jpg" group-title="VOD Italy",IT | Drama | I peccati di Madame Bovary 1969
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Thriller | Milano trema: la polizia vuole giustizia 1973" tvg-logo="http://mypanel.tv:8080/images/9ZSWpdWQFBOR2VQ5FrxpfZEQi1F_small.jpg" group-title="VOD Italy",IT | Thriller | Milano trema: la polizia vuole giustizia 1973
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Thriller | Violent Naples 1976" tvg-logo="http://mypanel.tv:8080/images/xxFNf3i7s7VWLu3SEehTVS7x5vV_small.jpg" group-title="VOD Italy",IT | Thriller | Violent Naples 1976
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT | Drama | Happy as Lazzaro (2018)" tvg-logo="http://mypanel.tv:8080/images/j4x1O6G0cbchHQwNsEZ0DntOJMJ_small.jpg" group-title="VOD Italy",IT | Drama | Happy as Lazzaro (2018)
+http://mypanel.tv:8080/movie/o6c8cjfg09/tgdxo85h5h/623700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E01" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E01
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E02" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E02
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E03" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E03
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E04" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E04
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E05" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E05
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E06" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E06
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E07" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E07
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E08" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E08
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E09" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E09
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E10" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E10
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E11" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E11
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E12" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E12
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E13" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E13
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E14" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E14
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E15" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E15
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E16" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E16
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E17" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E17
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E18" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E18
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E19" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E19
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E20" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E20
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E21" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E21
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E22" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E22
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E23" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E23
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E24" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E24
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E25" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E25
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E26" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E26
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E27" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E27
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E28" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E28
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E29" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E29
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E30" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E30
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E31" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E31
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E32" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E32
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E33" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E33
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E34" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E34
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z-IT S01 E35" tvg-logo="http://mypanel.tv:8080/images/dBsDWUcdfbuZwglgyeeQ9ChRoS4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Dragon Ball Z-IT S01 E35
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/51536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E01" tvg-logo="http://mypanel.tv:8080/images/icgvMg69xYMkVGojUC7DAbRHqXa_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E01
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E02" tvg-logo="http://mypanel.tv:8080/images/yX8hAjVs7qkP61P80M0PikAFRly_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E02
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E03" tvg-logo="http://mypanel.tv:8080/images/lBeVorwq9EBqzDfNiUUh7G12ewr_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E03
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E04" tvg-logo="http://mypanel.tv:8080/images/cmbnaaxz94D54LQTBafIu0796fS_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E04
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E05" tvg-logo="http://mypanel.tv:8080/images/luAW9HUyB8nbUvmciK2rYDscmky_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E05
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E06" tvg-logo="http://mypanel.tv:8080/images/awKHW0eYOe510u3UYK3Ec1FNN7h_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E06
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E07" tvg-logo="http://mypanel.tv:8080/images/yT17Vj6Ro38IiYs5q9o8vnf30HM_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E07
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E08" tvg-logo="http://mypanel.tv:8080/images/144xvnzs4JxZh5VhgE2LfuX28bB_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E08
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E09" tvg-logo="http://mypanel.tv:8080/images/cSxVAJx3zeeHbwcsA71ofFBlaMc_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E09
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E10" tvg-logo="http://mypanel.tv:8080/images/tt3ZMIiEG0AWuagZgQj8GnElNAU_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E10
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E11" tvg-logo="http://mypanel.tv:8080/images/es7Apf5iNhQ9TnBrTGEXmiCfBQO_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E11
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E12" tvg-logo="http://mypanel.tv:8080/images/z1yHCp0aEJAOOODRaGsYldcV8RA_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E12
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E13" tvg-logo="http://mypanel.tv:8080/images/vyzhvdGxQ7nnYUETWhWGzhaGjtV_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E13
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E14" tvg-logo="http://mypanel.tv:8080/images/g8vFBWbwB20mIjDmAODpRoXIqJn_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E14
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E15" tvg-logo="http://mypanel.tv:8080/images/tgB0WYKIPhuCCriz869KLSf7l6o_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E15
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E16" tvg-logo="http://mypanel.tv:8080/images/wWEiyjlvdRlDzPMDC5FgkVszG69_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E16
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E17" tvg-logo="http://mypanel.tv:8080/images/hiBOtEbq9YdmLBZe1XWRmYVuCFM_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E17
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E18" tvg-logo="http://mypanel.tv:8080/images/4JGD3DEWGdxlFPC4wBLNSQwgU3q_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E18
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E19" tvg-logo="http://mypanel.tv:8080/images/hXGvKdFx9AJRZcAljqX04jySL4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E19
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E20" tvg-logo="http://mypanel.tv:8080/images/5KHUNo5NHKDKpDKGunlKo2PYhHL_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E20
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E21" tvg-logo="http://mypanel.tv:8080/images/dJMWKGNGjh2D6hWDiHTb4AfUeeo_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E21
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E22" tvg-logo="http://mypanel.tv:8080/images/bJVJvfmCOAots0llDJQMcdwOhMN_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E22
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S01 E23" tvg-logo="http://mypanel.tv:8080/images/vdx4zoGYP27f3wXDm5xl1YkodRJ_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S01 E23
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E01" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E01
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E02" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E02
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E03" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E03
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E04" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E04
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E05" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E05
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E06" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E06
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E07" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E07
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E08" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E08
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E09" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E09
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E10" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E10
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E11" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E11
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E12" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E12
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E13" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E13
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E14" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E14
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E15" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E15
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E16" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E16
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E17" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E17
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E18" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E18
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E19" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E19
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E20" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E20
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E21" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E21
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E22" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E22
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E23" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E23
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E24" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E24
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E25" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E25
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E26" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E26
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E27" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E27
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E28" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E28
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E29" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E29
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E30" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E30
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E31" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E31
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E32" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E32
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E33" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E33
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E34" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E34
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E35" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E35
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E36" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E36
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E37" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E37
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E38" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E38
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E39" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E39
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E40" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E40
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E41" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E41
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E42" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E42
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E43" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E43
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E44" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E44
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E45" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E45
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E46" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E46
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E47" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E47
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E48" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E48
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S02 E49" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S02 E49
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E01" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E01
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E02" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E02
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E03" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E03
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E04" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E04
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E05" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E05
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E06" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E06
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E07" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E07
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E08" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E08
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E09" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E09
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E10" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E10
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E11" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E11
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E12" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E12
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E13" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E13
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E14" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E14
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E15" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E15
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E16" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E16
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E17" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E17
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E18" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E18
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E19" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E19
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E20" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E20
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E21" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E21
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E22" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E22
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E23" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E23
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E24" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E24
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E25" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E25
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E26" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E26
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E27" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E27
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E28" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E28
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E29" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E29
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E30" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E30
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E31" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E31
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E32" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E32
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E33" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E33
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E34" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E34
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E35" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E35
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E36" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E36
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E37" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E37
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E38" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E38
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E39" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E39
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E40" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E40
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E41" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E41
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E42" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E42
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E43" tvg-logo="http://mypanel.tv:8080/images/m5vOlJy0zOpIPS8NWcD3iD4yKq_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E43
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E44" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E44
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S03 E45" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S03 E45
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E01" tvg-logo="http://mypanel.tv:8080/images/sO76bV6PqiFhmNtbvo3s0yKM1l4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E01
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E02" tvg-logo="http://mypanel.tv:8080/images/3XqBRpp6rbNUNj5kcQVJgE2lt2b_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E02
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E03" tvg-logo="http://mypanel.tv:8080/images/g3SKGwKZLKyohFwHCUz3dXqfoXj_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E03
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E04" tvg-logo="http://mypanel.tv:8080/images/4XjwrpTDAUmJUtArezUJLUvyoIq_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E04
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E05" tvg-logo="http://mypanel.tv:8080/images/9e60P7FRDqF1FKI9TXDzehYTj0Q_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E05
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E06" tvg-logo="http://mypanel.tv:8080/images/bTVkbONZT4PFrQ9SZtA6HbPIwy0_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E06
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E07" tvg-logo="http://mypanel.tv:8080/images/bGB0yrcLAWiQw39BBMfX1DnTJXd_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E07
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E08" tvg-logo="http://mypanel.tv:8080/images/aS6BP7XLzMiRlaaRN2jKMeNtFN8_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E08
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E09" tvg-logo="http://mypanel.tv:8080/images/ybedzpfQ4hHSYmCUY2jcOldKiWv_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E09
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E10" tvg-logo="http://mypanel.tv:8080/images/dfnECp3xm8VlWzotc3VHYATZDir_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E10
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E11" tvg-logo="http://mypanel.tv:8080/images/3aT5Iug35FpTqn5v3PkWqGmQ1dg_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E11
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E12" tvg-logo="http://mypanel.tv:8080/images/vqFii9Ffhx65FwQl4LADQmuUPpo_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E12
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E13" tvg-logo="http://mypanel.tv:8080/images/b9piXOGxf67fhNqAJiALxi1Bnph_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E13
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E14" tvg-logo="http://mypanel.tv:8080/images/swENUfJtlYq0dzylFOdN2oGwa6c_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E14
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E15" tvg-logo="http://mypanel.tv:8080/images/2lr6rWaisjre34HCzNyAi5jxsNv_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E15
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E16" tvg-logo="http://mypanel.tv:8080/images/hjn5ZI9ZyXgre6VZBGQcZ2eaFS6_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E16
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E17" tvg-logo="http://mypanel.tv:8080/images/j06cBOWpgv4ZWBogXfoGphZS9mJ_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E17
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E18" tvg-logo="http://mypanel.tv:8080/images/bEYO6dO8i92kjTg23HTgtucdZsr_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E18
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E19" tvg-logo="http://mypanel.tv:8080/images/cgg93X7HWcApXpVlH2W990dFjLM_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E19
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E20" tvg-logo="http://mypanel.tv:8080/images/cfUU1n6CAQ5AULdR4EnQyqAYPK6_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E20
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E21" tvg-logo="http://mypanel.tv:8080/images/rlQqMHzbrnKu9L7zLJHER6b3fmT_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E21
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E22" tvg-logo="http://mypanel.tv:8080/images/20dSym0TOtnAXYqDNIvtxC5SSty_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E22
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E23" tvg-logo="http://mypanel.tv:8080/images/fJk1m6KV8fHx2qf3delIDxoCVlT_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E23
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E24" tvg-logo="http://mypanel.tv:8080/images/m5x0q0nGUlO4gezVi2mICY0xzpM_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E24
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E25" tvg-logo="http://mypanel.tv:8080/images/jFJAUQtSGHxzHNHUkAdNtY8t1Iz_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E25
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E26" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E26
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E27" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E27
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E28" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E28
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E29" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E29
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E30" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E30
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E31" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E31
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E32" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E32
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E33" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E33
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E34" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E34
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E35" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E35
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E36" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E36
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E37" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E37
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E38" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E38
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E39" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E39
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E40" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E40
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E41" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E41
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E42" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E42
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E43" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E43
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E44" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E44
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E45" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E45
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E46" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E46
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E47" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E47
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E48" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E48
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E49" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E49
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S04 E50" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S04 E50
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E01" tvg-logo="http://mypanel.tv:8080/images/firXV2WzUSh1vxlv3T0ATPQuxB6_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E01
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E02" tvg-logo="http://mypanel.tv:8080/images/3zKHr8UX678HKJZAIJZ4Dovp0f2_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E02
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E03" tvg-logo="http://mypanel.tv:8080/images/U4on8ymn4LNCknn1T0191yPWSp_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E03
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E04" tvg-logo="http://mypanel.tv:8080/images/7YnNlKCVCRIpAFNw6LNqi9c2Nzp_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E04
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E05" tvg-logo="http://mypanel.tv:8080/images/tSSCsUEteV296RvQpV1t7nqFus3_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E05
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E06" tvg-logo="http://mypanel.tv:8080/images/4bVIGXRLvfhLwWewOfJd6k7RsQy_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E06
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E07" tvg-logo="http://mypanel.tv:8080/images/2gGsXHYlBChfjdE6XJrG9jHZeO6_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E07
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E08" tvg-logo="http://mypanel.tv:8080/images/b4fSqOCYhdlT0BEj5ojSCeiYTum_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E08
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E09" tvg-logo="http://mypanel.tv:8080/images/gSmx1y50DfE6mB22EOR41VRhaEJ_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E09
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E10" tvg-logo="http://mypanel.tv:8080/images/v9jOMWftmCQnwdZlhPX21Vq1374_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E10
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E11" tvg-logo="http://mypanel.tv:8080/images/7EH8rdSANW6fHqSUslNzudXA8O4_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E11
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E12" tvg-logo="http://mypanel.tv:8080/images/7Bi7ZIfGTck4cLYivgPgted8ned_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E12
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E13" tvg-logo="http://mypanel.tv:8080/images/A188Hk4F8IKCxjYqHStpWoRC1vI_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E13
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E14" tvg-logo="http://mypanel.tv:8080/images/v918WBhGP0I5z7gzZMaPmhTfXZd_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E14
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E15" tvg-logo="http://mypanel.tv:8080/images/gqGX4EUG6bN1oeqmB27Y6Jcuw9w_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E15
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E16" tvg-logo="http://mypanel.tv:8080/images/w8m5OHMTJ71Q4pl9TPZlaPzyxcB_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E16
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E17" tvg-logo="http://mypanel.tv:8080/images/nTCXNNavbNkebLK7fSeKyka6wHY_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E17
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E18" tvg-logo="http://mypanel.tv:8080/images/bvOEZbAFfzIoSIgzdCrXAzq0AjB_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E18
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E19" tvg-logo="http://mypanel.tv:8080/images/3QtjMbkSm4AnijyR4gjgt47hKC3_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E19
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E20" tvg-logo="http://mypanel.tv:8080/images/vMrKporAHyOyD1iiVUFLfaZ7o6y_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E20
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E21" tvg-logo="http://mypanel.tv:8080/images/_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E21
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E22" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E22
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E23" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E23
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E24" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E24
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E25" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E25
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E26" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E26
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E27" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E27
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E28" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E28
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E29" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E29
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E30" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E30
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E31" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E31
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E32" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E32
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E33" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E33
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E34" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E34
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E35" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E35
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E36" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E36
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E37" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E37
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E38" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E38
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E39" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E39
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E40" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E40
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E41" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E41
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E42" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E42
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E43" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E43
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E44" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E44
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E45" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E45
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E46" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E46
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E47" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E47
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E48" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E48
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin the Third-IT S05 E49" tvg-logo="http://mypanel.tv:8080/images/7D1sYqdgiCiQtwtIgmb12pV0QgX_small.jpg" group-title="VOD ITALIA ANIMATION SERIES",Lupin the Third-IT S05 E49
+http://mypanel.tv:8080/series/o6c8cjfg09/tgdxo85h5h/52532.mp4
