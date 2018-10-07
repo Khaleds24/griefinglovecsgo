@@ -1,491 +1,491 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="########## Italy ##########" tvg-logo="http://pici.life/lg/IT/italy.png" group-title="Italy",########## Italy ##########
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4400.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4400.ts
 #EXTINF:-1 tvg-id="" tvg-name="----- IT Entertainment -----" tvg-logo="" group-title="Italy",----- IT Entertainment -----
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/20500.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/20500.ts
 #EXTINF:-1 tvg-id="RaiUno.it" tvg-name="Rai 1 HD IT" tvg-logo="http://pici.life/lg/IT/rai1hd.png" group-title="Italy",Rai 1 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4399.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4399.ts
 #EXTINF:-1 tvg-id="RaiDue.it" tvg-name="Rai 2 HD IT" tvg-logo="http://pici.life/lg/IT/rai2hd.png" group-title="Italy",Rai 2 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4398.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4398.ts
 #EXTINF:-1 tvg-id="RaiTre.it" tvg-name="Rai 3 HD IT" tvg-logo="http://pici.life/lg/IT/rai3hd.png" group-title="Italy",Rai 3 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4397.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4397.ts
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 HD IT" tvg-logo="http://pici.life/lg/IT/rai4hd.png" group-title="Italy",Rai 4 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4396.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4396.ts
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 HD IT" tvg-logo="http://pici.life/lg/IT/rai5-hd.png" group-title="Italy",Rai 5 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4395.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4395.ts
 #EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="Rete 4 HD IT" tvg-logo="http://pici.life/lg/IT/rete4hd.png" group-title="Italy",Rete 4 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4389.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4389.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canale 5 HD IT" tvg-logo="" group-title="Italy",Canale 5 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/37203.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/37203.ts
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 HD IT" tvg-logo="http://pici.life/lg/IT/italia1hd.png" group-title="Italy",Italia 1 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4387.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4387.ts
 #EXTINF:-1 tvg-id="La5.it" tvg-name="La5 HD IT" tvg-logo="http://pici.life/lg/IT/la5.png" group-title="Italy",La5 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4383.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4383.ts
 #EXTINF:-1 tvg-id="La7D.it" tvg-name="La7d IT" tvg-logo="http://pici.life/lg/IT/la7d.png" group-title="Italy",La7d IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4381.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4381.ts
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7 IT" tvg-logo="http://pici.life/lg/IT/la7.png" group-title="Italy",La7 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4382.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4382.ts
 #EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8 IT" tvg-logo="http://pici.life/lg/IT/tv8.png" group-title="Italy",TV8 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9298.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9298.ts
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris IT" tvg-logo="http://pici.life/lg/IT/iris.png" group-title="Italy",Iris IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4374.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4374.ts
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="http://pici.life/lg/IT/raimovie.png" group-title="Italy",Rai Movie IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4392.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4392.ts
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai YoYo HD IT" tvg-logo="http://pici.life/lg/IT/raiyoyo.png" group-title="Italy",Rai YoYo HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13065.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13065.ts
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo IT" tvg-logo="http://pici.life/lg/IT/raiyoyo.png" group-title="Italy",Rai Yoyo IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9325.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9325.ts
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola IT" tvg-logo="http://pici.life/lg/IT/raiscuola.png" group-title="Italy",Rai Scuola IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4390.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4390.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rai Storia HD IT" tvg-logo="https://pici.life/lg/IT/Rai_Storia.png" group-title="Italy",Rai Storia HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/19473.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/19473.ts
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium IT" tvg-logo="http://pici.life/lg/IT/raipremiumhd.png" group-title="Italy",Rai Premium IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4393.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4393.ts
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp IT" tvg-logo="http://pici.life/lg/IT/raigulp.png" group-title="Italy",Rai Gulp IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4391.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4391.ts
 #EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 HD IT" tvg-logo="http://pici.life/lg/IT/Italia2.png" group-title="Italy",Italia 2 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4386.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4386.ts
 #EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="http://pici.life/lg/IT/k2.png" group-title="Italy",K2 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9310.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9310.ts
 #EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno HD IT" tvg-logo="http://pici.life/lg/IT/skyunohd.png" group-title="Italy",Sky Uno HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13040.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13040.ts
 #EXTINF:-1 tvg-id="Fox.it" tvg-name="Fox HD IT" tvg-logo="http://pici.life/lg/IT/foxhd.png" group-title="Italy",Fox HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4342.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4342.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Life HD IT" tvg-logo="http://pici.life/foxlifehd_2.png" group-title="Italy",Fox Life HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4341.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4341.ts
 #EXTINF:-1 tvg-id="FoxComedy.it" tvg-name="Fox Comedy IT" tvg-logo="http://pici.life/lg/IT/foxcomedyhd.png" group-title="Italy",Fox Comedy IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4339.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4339.ts
 #EXTINF:-1 tvg-id="FoxAnimation.it" tvg-name="Fox Animation IT" tvg-logo="http://pici.life/foxanimationhd.png" group-title="Italy",Fox Animation IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4338.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4338.ts
 #EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="Comedy Central HD IT" tvg-logo="http://pici.life/comedycentral_2.png" group-title="Italy",Comedy Central HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4336.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4336.ts
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time HD IT" tvg-logo="http://pici.life/lg/IT/realtimehd.png" group-title="Italy",Real Time HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4333.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4333.ts
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo HD IT" tvg-logo="http://pici.life/lg/IT/cielo.png" group-title="Italy",Cielo HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9300.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9300.ts
 #EXTINF:-1 tvg-id="Lei.it" tvg-name="Lei HD IT" tvg-logo="http://pici.life/lg/IT/Lei.png" group-title="Italy",Lei HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13046.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13046.ts
 #EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte HD IT" tvg-logo="http://pici.life/skyartehd_2.png" group-title="Italy",Sky Arte HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13063.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13063.ts
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX IT" tvg-logo="http://pici.life/lg/IT/dmax.png" group-title="Italy",DMAX IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9313.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9313.ts
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime IT" tvg-logo="http://pici.life/lg/IT/topcrime.png" group-title="Italy",Top Crime IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4380.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4380.ts
 #EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="Gambero Rosso IT" tvg-logo="http://pici.life/lg/IT/gamberorosso.png" group-title="Italy",Gambero Rosso IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9294.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9294.ts
 #EXTINF:-1 tvg-id="" tvg-name="M2o Tv IT" tvg-logo="http://pici.life/lg/IT/m2o.png" group-title="Italy",M2o Tv IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13044.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13044.ts
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo IT" tvg-logo="http://pici.life/lg/IT/giallo.png" group-title="Italy",Giallo IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4334.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4334.ts
 #EXTINF:-1 tvg-id="" tvg-name="Alice IT" tvg-logo="http://pici.life/lg/IT/alice.png" group-title="Italy",Alice IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9301.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9301.ts
 #EXTINF:-1 tvg-id="Laeffe.it" tvg-name="Laeffe HD IT" tvg-logo="http://pici.life/lg/IT/laeffe-logo.jpg" group-title="Italy",Laeffe HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13047.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13047.ts
 #EXTINF:-1 tvg-id="" tvg-name="----- SKY ITALY SPORTS -----" tvg-logo="" group-title="Italy",----- SKY ITALY SPORTS -----
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/20501.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/20501.ts
 #EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 IT" tvg-logo="http://pici.life/lg/IT/skysport24hd.png" group-title="Italy",Sky Sport 24 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4331.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4331.ts
 #EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 HD IT" tvg-logo="http://pici.life/lg/IT/skysport24hd.png" group-title="Italy",Sky Sport 24 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13041.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13041.ts
 #EXTINF:-1 tvg-id="SkySport1.it" tvg-name="Sky Sport 1 (Canale 251) IT" tvg-logo="http://pici.life/skysport1.png" group-title="Italy",Sky Sport 1 (Canale 251) IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4330.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4330.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 (Canale 251) HD IT" tvg-logo="" group-title="Italy",Sky Sport 1 (Canale 251) HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46128.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46128.ts
 #EXTINF:-1 tvg-id="SkySport2.it" tvg-name="Sky Sport 2 (Canale 252) IT" tvg-logo="http://pici.life/skysport2.png" group-title="Italy",Sky Sport 2 (Canale 252) IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4329.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4329.ts
 #EXTINF:-1 tvg-id="SkySport2.it" tvg-name="Sky Sport 2 (Canale 252) HD IT" tvg-logo="http://pici.life/lg/IT/skysport2hd.png" group-title="Italy",Sky Sport 2 (Canale 252) HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13382.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13382.ts
 #EXTINF:-1 tvg-id="SkySport3.it" tvg-name="Sky Sport 3 (Canale 253) IT" tvg-logo="http://pici.life/skysport3.png" group-title="Italy",Sky Sport 3 (Canale 253) IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4328.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4328.ts
 #EXTINF:-1 tvg-id="SkySport3.it" tvg-name="Sky Sport 3 (Canale 253) HD IT" tvg-logo="http://pici.life/lg/IT/skysport3hd.png" group-title="Italy",Sky Sport 3 (Canale 253) HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13380.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13380.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 (Canale 254) HD IT" tvg-logo="" group-title="Italy",Sky Sport 4 (Canale 254) HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46123.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46123.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 (Canale 255) HD IT" tvg-logo="" group-title="Italy",Sky Sport 5 (Canale 255) HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46124.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46124.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 (Canale 256) HD IT" tvg-logo="" group-title="Italy",Sky Sport 6 (Canale 256) HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46125.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46125.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 (Canale 257) HD IT" tvg-logo="" group-title="Italy",Sky Sport 7 (Canale 257) HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/51018.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/51018.ts
 #EXTINF:-1 tvg-id="" tvg-name="Roma TV Sport IT" tvg-logo="" group-title="Italy",Roma TV Sport IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/51017.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/51017.ts
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 IT" tvg-logo="http://pici.life/lg/IT/skysportf1hd.png" group-title="Italy",Sky Sport F1 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4326.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4326.ts
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HD IT" tvg-logo="http://pici.life/lg/IT/skysportf1hd.png" group-title="Italy",Sky Sport F1 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13378.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13378.ts
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP IT" tvg-logo="http://pici.life/lg/IT/skysportmotogphd.png" group-title="Italy",Sky Sport MotoGP IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4325.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4325.ts
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP HD IT" tvg-logo="http://pici.life/lg/IT/skysportmotogphd.png" group-title="Italy",Sky Sport MotoGP HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13377.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13377.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena HD IT" tvg-logo="" group-title="Italy",Sky Sport Arena HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46536.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46536.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA HD IT" tvg-logo="" group-title="Italy",Sky Sport NBA HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46538.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46538.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Serie A HD IT" tvg-logo="" group-title="Italy",Sky Sport Serie A HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46539.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46539.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Football HD IT" tvg-logo="" group-title="Italy",Sky Sport Football HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46129.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46129.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Uno HD IT" tvg-logo="" group-title="Italy",Sky Sports Uno HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/53160.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/53160.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Mix HD IT" tvg-logo="" group-title="Italy",Sky Sport Mix HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46537.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46537.ts
 #EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 HD IT" tvg-logo="http://pici.life/lg/IT/eurosport1hd.png" group-title="Italy",EuroSport 1 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13373.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13373.ts
 #EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 HD IT" tvg-logo="http://pici.life/eurosport2hd_2.png" group-title="Italy",EuroSport 2 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13372.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13372.ts
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan Channel FHD IT" tvg-logo="http://pici.life/lg/IT/milanchannel.png" group-title="Italy",Milan Channel FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4309.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4309.ts
 #EXTINF:-1 tvg-id="InterChannel.it" tvg-name="Inter Channel IT" tvg-logo="http://pici.life/lg/IT/interchannel.png" group-title="Italy",Inter Channel IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4310.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4310.ts
 #EXTINF:-1 tvg-id="" tvg-name="Roma Channel TV IT" tvg-logo="http://pici.life/roma.png" group-title="Italy",Roma Channel TV IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9320.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9320.ts
 #EXTINF:-1 tvg-id="LazioStyleChannel.it" tvg-name="Lazio Style Channel IT" tvg-logo="http://pici.life/lg/IT/Lazio_style.png" group-title="Italy",Lazio Style Channel IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9319.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9319.ts
 #EXTINF:-1 tvg-id="TorinoChannel.it" tvg-name="Torino Channel HD IT" tvg-logo="https://pici.life/lg/IT/Torino%20Channel%20HD%20IT.png" group-title="Italy",Torino Channel HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/15178.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/15178.ts
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="Super Tennis HD IT" tvg-logo="http://pici.life/lg/IT/supertennis.png" group-title="Italy",Super Tennis HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4322.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4322.ts
 #EXTINF:-1 tvg-id="AutomotoTV.it" tvg-name="Automoto IT" tvg-logo="http://pici.life/lg/IT/automototv.png" group-title="Italy",Automoto IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13374.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13374.ts
 #EXTINF:-1 tvg-id="BikeChannel.it" tvg-name="Bike HD IT" tvg-logo="http://pici.life/lg/IT/Bike_.png" group-title="Italy",Bike HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13079.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13079.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sport Italia IT" tvg-logo="http://pici.life/lg/IT/sportitalia.png" group-title="Italy",Sport Italia IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4324.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4324.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 1 IT" tvg-logo="" group-title="Italy",Dazn 1 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50699.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50699.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 2 IT" tvg-logo="" group-title="Italy",Dazn 2 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50698.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50698.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 3 IT" tvg-logo="" group-title="Italy",Dazn 3 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50697.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50697.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 4 IT" tvg-logo="" group-title="Italy",Dazn 4 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50696.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50696.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 5 IT" tvg-logo="" group-title="Italy",Dazn 5 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50695.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50695.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 6 IT" tvg-logo="" group-title="Italy",Dazn 6 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50694.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50694.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 7 IT" tvg-logo="" group-title="Italy",Dazn 7 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50693.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50693.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 8 IT" tvg-logo="" group-title="Italy",Dazn 8 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50692.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50692.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 9 IT" tvg-logo="" group-title="Italy",Dazn 9 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50691.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50691.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 10 IT" tvg-logo="" group-title="Italy",Dazn 10 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50690.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50690.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 11 IT" tvg-logo="" group-title="Italy",Dazn 11 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50689.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50689.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 12 IT" tvg-logo="" group-title="Italy",Dazn 12 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/507782.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/507782.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 13 IT" tvg-logo="" group-title="Italy",Dazn 13 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50777.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50777.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 14 IT" tvg-logo="" group-title="Italy",Dazn 14 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50776.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50776.ts
 #EXTINF:-1 tvg-id="" tvg-name="Vetrina Dazn IT" tvg-logo="" group-title="Italy",Vetrina Dazn IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/50700.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/50700.ts
 #EXTINF:-1 tvg-id="" tvg-name="----- Sky Italy Movies -----" tvg-logo="" group-title="Italy",----- Sky Italy Movies -----
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/20504.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/20504.ts
 #EXTINF:-1 tvg-id="Sky3D.it" tvg-name="Sky 3D HD IT" tvg-logo="http://pici.life/sky3d_2.png" group-title="Italy",Sky 3D HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13064.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13064.ts
 #EXTINF:-1 tvg-id="SkyCinemaHits.it" tvg-name="Sky Cinema Hits HD IT" tvg-logo="http://pici.life/lg/IT/skycinemahitshd.png" group-title="Italy",Sky Cinema Hits HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4373.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4373.ts
 #EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family HD IT" tvg-logo="http://pici.life/lg/IT/skycinemafamilyhd.png" group-title="Italy",Sky Cinema Family HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4372.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4372.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family 1 HD IT" tvg-logo="http://pici.life/lg/IT/skycinemafamilyhd.png" group-title="Italy",Sky Cinema Family 1 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4371.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4371.ts
 #EXTINF:-1 tvg-id="SkyCinemaPassion.it" tvg-name="Sky Cinema Passion HD IT" tvg-logo="http://pici.life/lg/IT/skycinemapassionhd-phibruspel.png" group-title="Italy",Sky Cinema Passion HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4370.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4370.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema 24 HD IT" tvg-logo="http://pici.life/lg/IT/skycinema24hdit.png" group-title="Italy",Sky Cinema 24 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4375.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4375.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema  24 HD IT" tvg-logo="http://pici.life/lg/IT/skycinema24hdit.png" group-title="Italy",Sky Cinema  24 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9322.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9322.ts
 #EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy HD IT" tvg-logo="http://pici.life/lg/IT/skycinemacomedyhd.png" group-title="Italy",Sky Cinema Comedy HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4368.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4368.ts
 #EXTINF:-1 tvg-id="SkyCinemaClassics.it" tvg-name="Sky Cinema Classic HD IT" tvg-logo="http://pici.life/lg/IT/skycinemaclassicshd-phibruspel.png" group-title="Italy",Sky Cinema Classic HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4364.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4364.ts
 #EXTINF:-1 tvg-id="SkyCinemaMax.it" tvg-name="Sky Cinema Max HD IT" tvg-logo="http://pici.life/lg/IT/skycinemamaxhd-phibruspel.png" group-title="Italy",Sky Cinema Max HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4366.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4366.ts
 #EXTINF:-1 tvg-id="SkyCinemaCult.it" tvg-name="Sky Cinema Cult HD IT" tvg-logo="http://pici.life/lg/IT/skycinemaculthd-phibruspel.png" group-title="Italy",Sky Cinema Cult HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4365.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4365.ts
 #EXTINF:-1 tvg-id="" tvg-name="----- Premium Movies -----" tvg-logo="" group-title="Italy",----- Premium Movies -----
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/20505.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/20505.ts
 #EXTINF:-1 tvg-id="PremiumCinema.it" tvg-name="Premium Cinema HD IT" tvg-logo="http://pici.life/lg/IT/premiumcinemahdit.png" group-title="Italy",Premium Cinema HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4361.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4361.ts
 #EXTINF:-1 tvg-id="SkyCinemaPlus24.it" tvg-name="Premium Cinema 24 IT" tvg-logo="http://pici.life/lg/IT/premiumcinema24it.png" group-title="Italy",Premium Cinema 24 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4360.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4360.ts
 #EXTINF:-1 tvg-id="PremiumCinema.it" tvg-name="Premium Cinema 2 HD IT" tvg-logo="http://pici.life/lg/IT/premiumcinema2hdit.png" group-title="Italy",Premium Cinema 2 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4359.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4359.ts
 #EXTINF:-1 tvg-id="" tvg-name="Premium Cinema 2 +24 IT" tvg-logo="http://pici.life/lg/IT/premiumcinema224it.png" group-title="Italy",Premium Cinema 2 +24 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4358.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4358.ts
 #EXTINF:-1 tvg-id="" tvg-name="Premium Emotion IT" tvg-logo="http://pici.life/lg/IT/premiumcinemaemotionit.png" group-title="Italy",Premium Emotion IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13070.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13070.ts
 #EXTINF:-1 tvg-id="PremiumCinemaComedy.it" tvg-name="Premium Cinema Comedy IT" tvg-logo="http://pici.life/lg/IT/premiumcinemacomedyit.png" group-title="Italy",Premium Cinema Comedy IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4355.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4355.ts
 #EXTINF:-1 tvg-id="" tvg-name="Premium Studio Universal IT" tvg-logo="http://pici.life/studiouniversal.png" group-title="Italy",Premium Studio Universal IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4354.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4354.ts
 #EXTINF:-1 tvg-id="" tvg-name="----- Premium Entertainment -----" tvg-logo="" group-title="Italy",----- Premium Entertainment -----
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/20506.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/20506.ts
 #EXTINF:-1 tvg-id="PremiumAction.it" tvg-name="Premium Action HD IT" tvg-logo="http://pici.life/lg/IT/premiumactionhdit.png" group-title="Italy",Premium Action HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4352.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4352.ts
 #EXTINF:-1 tvg-id="" tvg-name="Premium Action +24 IT" tvg-logo="http://pici.life/lg/IT/premiumaction24it.png" group-title="Italy",Premium Action +24 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4351.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4351.ts
 #EXTINF:-1 tvg-id="PremiumCrime.it" tvg-name="Premium Crime IT" tvg-logo="http://pici.life/lg/IT/premiumcrimehdit.png" group-title="Italy",Premium Crime IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4350.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4350.ts
 #EXTINF:-1 tvg-id="" tvg-name="Premium Crime 24 IT" tvg-logo="http://pici.life/lg/IT/premiumcrime24it.png" group-title="Italy",Premium Crime 24 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9318.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9318.ts
 #EXTINF:-1 tvg-id="" tvg-name="Premium Joy IT" tvg-logo="http://pici.life/lg/IT/premiumjoiit.png" group-title="Italy",Premium Joy IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4348.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4348.ts
 #EXTINF:-1 tvg-id="PremiumJoi.it" tvg-name="Premium Joy 24 IT" tvg-logo="http://pici.life/lg/IT/premiumjoi24it.png" group-title="Italy",Premium Joy 24 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4347.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4347.ts
 #EXTINF:-1 tvg-id="PremiumStories.it" tvg-name="Premium Stories IT" tvg-logo="http://pici.life/lg/IT/premiumstoriesit.png" group-title="Italy",Premium Stories IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4346.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4346.ts
 #EXTINF:-1 tvg-id="" tvg-name="----- PrimaFila (Vetrina) -----" tvg-logo="" group-title="Italy",----- PrimaFila (Vetrina) -----
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/20507.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/20507.ts
 #EXTINF:-1 tvg-id="Primafila1.it" tvg-name="Sky Primafila 1 HD IT" tvg-logo="http://pici.life/primafila1hd_2.png" group-title="Italy",Sky Primafila 1 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9348.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9348.ts
 #EXTINF:-1 tvg-id="Primafila2.it" tvg-name="Sky Primafila 2 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 2 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9347.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9347.ts
 #EXTINF:-1 tvg-id="Primafila3.it" tvg-name="Sky Primafila 3 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 3 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9346.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9346.ts
 #EXTINF:-1 tvg-id="Primafila4.it" tvg-name="Sky Primafila 4 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 4 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9345.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9345.ts
 #EXTINF:-1 tvg-id="Primafila5.it" tvg-name="Sky Primafila 5 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 5 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9344.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9344.ts
 #EXTINF:-1 tvg-id="Primafila6.it" tvg-name="Sky Primafila 6 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 6 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9343.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9343.ts
 #EXTINF:-1 tvg-id="Primafila7.it" tvg-name="Sky Primafila 7 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 7 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9342.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9342.ts
 #EXTINF:-1 tvg-id="Primafila8.it" tvg-name="Sky Primafila 8 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 8 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9341.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9341.ts
 #EXTINF:-1 tvg-id="Primafila9.it" tvg-name="Sky Primafila 9 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 9 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9340.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9340.ts
 #EXTINF:-1 tvg-id="Primafila10.it" tvg-name="Sky Primafila 10 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 10 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9339.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9339.ts
 #EXTINF:-1 tvg-id="Primafila11.it" tvg-name="Sky Primafila 11 FHD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 11 FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9338.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9338.ts
 #EXTINF:-1 tvg-id="Primafila12.it" tvg-name="Sky Primafila 12 FHD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 12 FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9337.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9337.ts
 #EXTINF:-1 tvg-id="Primafila13.it" tvg-name="Sky Primafila 13 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 13 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9336.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9336.ts
 #EXTINF:-1 tvg-id="Primafila14.it" tvg-name="Sky Primafila 14 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 14 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9335.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9335.ts
 #EXTINF:-1 tvg-id="Primafila15.it" tvg-name="Sky Primafila 15 FHD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 15 FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9334.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9334.ts
 #EXTINF:-1 tvg-id="Primafila16.it" tvg-name="Sky Primafila 16 FHD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 16 FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9333.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9333.ts
 #EXTINF:-1 tvg-id="Primafila17.it" tvg-name="Sky Primafila 17 FHD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 17 FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9332.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9332.ts
 #EXTINF:-1 tvg-id="Primafila18.it" tvg-name="Sky Primafila 18 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 18 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9331.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9331.ts
 #EXTINF:-1 tvg-id="Primafila19.it" tvg-name="Sky Primafila 19 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 19 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9330.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9330.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 20 FHD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 20 FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9329.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9329.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 21 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 21 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9328.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9328.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 22 HD IT" tvg-logo="http://pici.life/lg/IT/sky-primafila.jpg" group-title="Italy",Sky Primafila 22 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9327.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9327.ts
 #EXTINF:-1 tvg-id="" tvg-name="------- DOCUMENTARY -------" tvg-logo="" group-title="Italy",------- DOCUMENTARY -------
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/20508.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/20508.ts
 #EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="Nat Geo Wild FHD IT" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="Italy",Nat Geo Wild FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4296.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4296.ts
 #EXTINF:-1 tvg-id="NatGeoPeople.it" tvg-name="Nat Geo People FHD IT" tvg-logo="http://pici.life/natgeopeoplehd_2.png" group-title="Italy",Nat Geo People FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4297.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4297.ts
 #EXTINF:-1 tvg-id="DiscoveryTravelLiving.it" tvg-name="Discovery Travel and Living FHD IT" tvg-logo="http://pici.life/discoverytravelandlivinghd.png" group-title="Italy",Discovery Travel and Living FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4292.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4292.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel FHD IT" tvg-logo="http://pici.life/lg/IT/discoverychannelhd.png" group-title="Italy",Discovery Channel FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4294.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4294.ts
 #EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="Discovery Science HD IT" tvg-logo="http://pici.life/lg/IT/discoverysciencehd.png" group-title="Italy",Discovery Science HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13074.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13074.ts
 #EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation HD IT" tvg-logo="http://pici.life/crimeandinvest_2.png" group-title="Italy",Crime & Investigation HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13075.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13075.ts
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery IT" tvg-logo="http://pici.life/lg/IT/investigationdiscovery.png" group-title="Italy",Investigation Discovery IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13072.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13072.ts
 #EXTINF:-1 tvg-id="" tvg-name="History HD IT" tvg-logo="http://pici.life/lg/IT/historyhd.png" group-title="Italy",History HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9314.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9314.ts
 #EXTINF:-1 tvg-id="AnimalPlanet.it" tvg-name="Animal Planet IT" tvg-logo="http://pici.life/lg/IT/animalplanet.png" group-title="Italy",Animal Planet IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9315.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9315.ts
 #EXTINF:-1 tvg-id="" tvg-name="Marcopolo IT" tvg-logo="http://pici.life/lg/IT/marcopolo.png" group-title="Italy",Marcopolo IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9296.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9296.ts
 #EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus IT" tvg-logo="http://pici.life/lg/IT/focus.png" group-title="Italy",Focus IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9299.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9299.ts
 #EXTINF:-1 tvg-id="" tvg-name="Italian Fishing IT" tvg-logo="http://pici.life/lg/IT/Italian_fishing.png" group-title="Italy",Italian Fishing IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4379.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4379.ts
 #EXTINF:-1 tvg-id="" tvg-name="Pesca & Caccia HD IT" tvg-logo="http://pici.life/lg/IT/cacciaepesca.png" group-title="Italy",Pesca & Caccia HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9311.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9311.ts
 #EXTINF:-1 tvg-id="CacciaPesca.it" tvg-name="Caccia & Pesca HD IT" tvg-logo="http://pici.life/lg/IT/cacciaepesca.png" group-title="Italy",Caccia & Pesca HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9312.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9312.ts
 #EXTINF:-1 tvg-id="" tvg-name="------- CHILDREN -------" tvg-logo="" group-title="Italy",------- CHILDREN -------
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/20509.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/20509.ts
 #EXTINF:-1 tvg-id="DisneyXD.it" tvg-name="Disney XD IT" tvg-logo="http://pici.life/lg/IT/disneyxd.png" group-title="Italy",Disney XD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9304.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9304.ts
 #EXTINF:-1 tvg-id="DisneyChannel.it" tvg-name="Disney Channel HD IT" tvg-logo="http://pici.life/lg/IT/disney.png" group-title="Italy",Disney Channel HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9306.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9306.ts
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="http://pici.life/lg/IT/cartoonito.png" group-title="Italy",Cartoonito IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9308.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9308.ts
 #EXTINF:-1 tvg-id="BabyTV.it" tvg-name="Baby TV IT" tvg-logo="http://pici.life/babytv_2.png" group-title="Italy",Baby TV IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9309.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9309.ts
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee HD IT" tvg-logo="http://pici.life/lg/IT/frisbee.png" group-title="Italy",Frisbee HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13073.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13073.ts
 #EXTINF:-1 tvg-id="DeAKids.it" tvg-name="Dea Kids HD IT" tvg-logo="http://pici.life/lg/IT/dea_kids.png" group-title="Italy",Dea Kids HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13052.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13052.ts
 #EXTINF:-1 tvg-id="DeAJunior.it" tvg-name="Dea Junior HD IT" tvg-logo="http://pici.life/lg/IT/dea_junior.png" group-title="Italy",Dea Junior HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13053.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13053.ts
 #EXTINF:-1 tvg-id="MANGA.it" tvg-name="Man-Ga HD IT" tvg-logo="http://pici.life/lg/IT/Manga.Tv.png" group-title="Italy",Man-Ga HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13043.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13043.ts
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="http://pici.life/lg/IT/boing.png" group-title="Italy",Boing IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9303.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9303.ts
 #EXTINF:-1 tvg-id="DisneyJunior.it" tvg-name="Disney Junior IT" tvg-logo="http://pici.life/lg/IT/disneyjr.png" group-title="Italy",Disney Junior IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9305.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9305.ts
 #EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network IT" tvg-logo="http://pici.life/lg/IT/cartoonnetwork.png" group-title="Italy",Cartoon Network IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9307.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9307.ts
 #EXTINF:-1 tvg-id="" tvg-name="Super! IT" tvg-logo="http://pici.life/lg/IT/super.png" group-title="Italy",Super! IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9302.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9302.ts
 #EXTINF:-1 tvg-id="" tvg-name="----- Slow Internet Customers -----" tvg-logo="" group-title="Italy",----- Slow Internet Customers -----
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/20510.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/20510.ts
 #EXTINF:-1 tvg-id="SkySupercalcio.it" tvg-name="Sky Supercalcio IT" tvg-logo="http://pici.life/lg/IT/Sky_Supercalcio.png" group-title="Italy",Sky Supercalcio IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13371.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13371.ts
 #EXTINF:-1 tvg-id="SkySupercalcio.it" tvg-name="Sky Supercalcio HD IT" tvg-logo="http://pici.life/lg/IT/skysupercalciohd.png" group-title="Italy",Sky Supercalcio HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13062.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13062.ts
 #EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic HD IT" tvg-logo="http://pici.life/lg/IT/skyatlantichd.png" group-title="Italy",Sky Atlantic HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4343.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4343.ts
 #EXTINF:-1 tvg-id="FoxCrime.it" tvg-name="Fox Crime HD IT" tvg-logo="http://pici.life/lg/IT/foxcrimehd.png" group-title="Italy",Fox Crime HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4340.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4340.ts
 #EXTINF:-1 tvg-id="" tvg-name="AXN IT" tvg-logo="http://pici.life/axn_2.png" group-title="Italy",AXN IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4337.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4337.ts
 #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema 1 IT" tvg-logo="http://pici.life/lg/IT/skycinema1hd-phibruspel.png" group-title="Italy",Sky Cinema 1 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4376.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4376.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canale 8 IT" tvg-logo="http://pici.life/lg/IT/tv8canale8.jpg" group-title="Italy",Canale 8 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13078.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13078.ts
 #EXTINF:-1 tvg-id="ClassHorseTV.it" tvg-name="Class Horse Tv HD IT" tvg-logo="http://pici.life/lg/IT/Class_horse.png" group-title="Italy",Class Horse Tv HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13076.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13076.ts
 #EXTINF:-1 tvg-id="" tvg-name="CTS TV IT" tvg-logo="http://pici.life/lg/IT/cts.png" group-title="Italy",CTS TV IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13060.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13060.ts
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000 IT" tvg-logo="http://pici.life/lg/IT/tv2000.png" group-title="Italy",TV2000 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9292.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9292.ts
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 IT" tvg-logo="http://pici.life/lg/IT/eurosport1.png" group-title="Italy",Eurosport 1 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4321.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4321.ts
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 IT" tvg-logo="http://pici.life/lg/IT/eurosport2.png" group-title="Italy",Eurosport 2 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4320.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4320.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fine Living IT" tvg-logo="http://pici.life/fineliving_2.png" group-title="Italy",Fine Living IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4378.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4378.ts
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="http://pici.life/lg/IT/mediasetextra.png" group-title="Italy",Mediaset Extra IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9317.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9317.ts
 #EXTINF:-1 tvg-id="" tvg-name="Moto GP Live 2 IT" tvg-logo="http://pici.life/all/Logo-motogp.png" group-title="Sports",Moto GP Live 2 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/7104.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/7104.ts
 #EXTINF:-1 tvg-id="" tvg-name="Moto GP Live 3 IT" tvg-logo="http://pici.life/all/Logo-motogp.png" group-title="Sports",Moto GP Live 3 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/7103.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/7103.ts
 #EXTINF:-1 tvg-id="MTVMusic.it" tvg-name="MTV Music IT" tvg-logo="http://pici.life/mtvmusic.png" group-title="Italy",MTV Music IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9297.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9297.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canale 21 IT" tvg-logo="http://pici.life/lg/IT/napoli_canale_21.png" group-title="Italy",Canale 21 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13077.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13077.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nick Junior HD IT" tvg-logo="http://pici.life/lg/IT/Nick_Jr._HD.png" group-title="Italy",Nick Junior HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13071.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13071.ts
 #EXTINF:-1 tvg-id="" tvg-name="Paramount IT" tvg-logo="http://pici.life/paramountchannel_2.png" group-title="Italy",Paramount IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4353.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4353.ts
 #EXTINF:-1 tvg-id="PremiumCinemaEmotion.it" tvg-name="Premium Cinema Emotion IT" tvg-logo="http://pici.life/lg/IT/premiumcinemaemotionit.png" group-title="Italy",Premium Cinema Emotion IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4356.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4356.ts
 #EXTINF:-1 tvg-id="PremiumCinemaEnergy.it" tvg-name="Premium Cinema Energy IT" tvg-logo="http://pici.life/lg/IT/premiumcinemaenergyit.png" group-title="Italy",Premium Cinema Energy IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4357.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4357.ts
 #EXTINF:-1 tvg-id="" tvg-name="Radio Capital IT" tvg-logo="http://pici.life/lg/IT/radiocapital.png" group-title="Italy",Radio Capital IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13068.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13068.ts
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time IT" tvg-logo="http://pici.life/lg/IT/realtimehd.png" group-title="Italy",Real Time IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9295.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9295.ts
 #EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 IT" tvg-logo="http://pici.life/lg/IT/rainews24.png" group-title="Italy",Rai News 24 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9326.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9326.ts
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport 1 HD IT" tvg-logo="http://pici.life/lg/IT/raisport.png" group-title="Italy",Rai Sport 1 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4394.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4394.ts
 #EXTINF:-1 tvg-id="" tvg-name="RSi La 1 IT" tvg-logo="http://pici.life/lg/IT/rsila1.png" group-title="Italy",RSi La 1 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4385.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4385.ts
 #EXTINF:-1 tvg-id="" tvg-name="RSi La 2 HD IT" tvg-logo="http://pici.life/lg/IT/rsila2.png" group-title="Italy",RSi La 2 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4384.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4384.ts
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport 2 IT" tvg-logo="http://pici.life/lg/IT/raisport.png" group-title="Italy",Rai Sport 2 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9324.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9324.ts
 #EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL102.5 IT" tvg-logo="http://pici.life/lg/IT/RTL_102.5.png" group-title="Italy",RTL102.5 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9293.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9293.ts
 #EXTINF:-1 tvg-id="SkyCinemaPassion.it" tvg-name="Sky Passion 1 IT" tvg-logo="http://pici.life/lg/IT/skycinemapassionhd-phibruspel.png" group-title="Italy",Sky Passion 1 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4369.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4369.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA  IT" tvg-logo="http://pici.life/lg/IT/Sky_Sport_Plus.png" group-title="Italy",Sky Sport NBA  IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4327.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4327.ts
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24 HD IT" tvg-logo="http://pici.life/lg/IT/skytg24hd.png" group-title="Italy",Sky TG24 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9323.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9323.ts
 #EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno IT" tvg-logo="http://pici.life/lg/IT/skyunohd.png" group-title="Italy",Sky Uno IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4344.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4344.ts
 #EXTINF:-1 tvg-id="" tvg-name="Super Calcio IT" tvg-logo="http://pici.life/skysupercalciohd.png" group-title="Italy",Super Calcio IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/4318.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/4318.ts
 #EXTINF:-1 tvg-id="" tvg-name="Video Lina IT" tvg-logo="http://pici.life/lg/IT/VIDEOLINA.png" group-title="Italy",Video Lina IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/9316.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/9316.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canale 7 IT" tvg-logo="http://pici.life/lg/IT/canale_7.png" group-title="Italy",Canale 7 IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/13057.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/13057.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mediaset 20 HD IT" tvg-logo="" group-title="Italy",Mediaset 20 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/37945.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/37945.ts
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang HD IT" tvg-logo="" group-title="Italy",Boomerang HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/43706.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/43706.ts
 #EXTINF:-1 tvg-id="" tvg-name="Classica HD IT" tvg-logo="" group-title="Italy",Classica HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/43707.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/43707.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dove TV HD IT" tvg-logo="" group-title="Italy",Dove TV HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46118.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46118.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD IT" tvg-logo="" group-title="Italy",Nat Geo HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46120.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46120.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD IT" tvg-logo="" group-title="Italy",Nickelodeon HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46121.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46121.ts
 #EXTINF:-1 tvg-id="" tvg-name="SKY Classica HD IT" tvg-logo="" group-title="Italy",SKY Classica HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46119.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46119.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Moto GP HD IT" tvg-logo="" group-title="Italy",Sky Moto GP HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46127.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46127.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf HD IT" tvg-logo="" group-title="Italy",Sky Sport Golf HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46126.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46126.ts
 #EXTINF:-1 tvg-id="" tvg-name="Alpha FHD IT" tvg-logo="" group-title="Italy",Alpha FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46559.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46559.ts
 #EXTINF:-1 tvg-id="" tvg-name="Blaze +1 HD IT" tvg-logo="" group-title="Italy",Blaze +1 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46560.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46560.ts
 #EXTINF:-1 tvg-id="" tvg-name="Blaze FHD IT" tvg-logo="" group-title="Italy",Blaze FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46561.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46561.ts
 #EXTINF:-1 tvg-id="" tvg-name="Blaze HD IT" tvg-logo="" group-title="Italy",Blaze HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46562.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46562.ts
 #EXTINF:-1 tvg-id="" tvg-name="CI Crime Investigation +1 HD IT" tvg-logo="" group-title="Italy",CI Crime Investigation +1 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46564.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46564.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sony IT" tvg-logo="" group-title="Italy",Cine Sony IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46545.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46545.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fignt Network Italia IT" tvg-logo="" group-title="Italy",Fignt Network Italia IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46565.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46565.ts
 #EXTINF:-1 tvg-id="" tvg-name="Food Network IT" tvg-logo="" group-title="Italy",Food Network IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46566.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46566.ts
 #EXTINF:-1 tvg-id="" tvg-name="Freesbe SD IT" tvg-logo="" group-title="Italy",Freesbe SD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46546.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46546.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID Investigation SD IT" tvg-logo="" group-title="Italy",ID Investigation SD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46551.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46551.ts
 #EXTINF:-1 tvg-id="" tvg-name="La 5 SD IT" tvg-logo="" group-title="Italy",La 5 SD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46547.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46547.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA 7 HD IT" tvg-logo="" group-title="Italy",LA 7 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46548.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46548.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mediaset SD IT" tvg-logo="" group-title="Italy",Mediaset SD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46563.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46563.ts
 #EXTINF:-1 tvg-id="" tvg-name="Motor Trend SD IT" tvg-logo="" group-title="Italy",Motor Trend SD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46567.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46567.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV FHD IT" tvg-logo="" group-title="Italy",MTV FHD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46543.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46543.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD IT" tvg-logo="" group-title="Italy",MTV HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46544.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46544.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nove HD IT" tvg-logo="" group-title="Italy",Nove HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46549.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46549.ts
 #EXTINF:-1 tvg-id="" tvg-name="Premium Comedy HD IT" tvg-logo="" group-title="Italy",Premium Comedy HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46568.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46568.ts
 #EXTINF:-1 tvg-id="" tvg-name="Premium Energy HD IT" tvg-logo="" group-title="Italy",Premium Energy HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46569.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46569.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema +1 HD IT" tvg-logo="" group-title="Italy",Sky Cinema +1 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46540.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46540.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Classics HD IT" tvg-logo="" group-title="Italy",Sky Cinema Classics HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46542.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46542.ts
 #EXTINF:-1 tvg-id="" tvg-name="Spike IT" tvg-logo="" group-title="Italy",Spike IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46571.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46571.ts
 #EXTINF:-1 tvg-id="" tvg-name="TG com 24 SD IT" tvg-logo="" group-title="Italy",TG com 24 SD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46557.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46557.ts
 #EXTINF:-1 tvg-id="" tvg-name="TG Norba 24 SD IT" tvg-logo="" group-title="Italy",TG Norba 24 SD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46556.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46556.ts
 #EXTINF:-1 tvg-id="" tvg-name="Top Calcio 24 SD IT" tvg-logo="" group-title="Italy",Top Calcio 24 SD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46572.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46572.ts
 #EXTINF:-1 tvg-id="" tvg-name="Uniresat HD IT" tvg-logo="" group-title="Italy",Uniresat HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46558.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46558.ts
 #EXTINF:-1 tvg-id="" tvg-name="Film Premier IT" tvg-logo="" group-title="Italy",Film Premier IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46573.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46573.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema +24 HD IT" tvg-logo="" group-title="Italy",Sky Cinema +24 HD IT
-http://mypanel.tv:8080/live/rq143wnoej/uge4z9n07/46541.ts
+http://mypanel.tv:8080/live/ahl2um84sl/ntrco3crzk/46541.ts
